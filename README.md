@@ -15,7 +15,7 @@ An end-to-end business intelligence suite delivering deep analytics on revenue g
 *High-level financial KPIs, annual trends, brand performance, and payment method distribution.*
 
 ### 2. Customer Performance & Analytics
-![Customer Analytics]([img/dashboard_customer.jpg](https://github.com/AymenAli-Analyst/Enterprise-Sales-Operations-Intelligence/blob/main/Screenshot%202026-07-25%20144237.png?raw=true))
+![Customer Analytics](https://github.com/AymenAli-Analyst/Enterprise-Sales-Operations-Intelligence/blob/main/Screenshot%202026-07-25%20144237.png?raw=true)
 *Customer lifetime value, segmentation analysis, order status breakdown, and top-tier customer metrics.*
 
 ### 3. Operations & Returns Logistics
