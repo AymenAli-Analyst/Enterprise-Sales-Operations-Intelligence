@@ -11,7 +11,7 @@ An end-to-end business intelligence suite delivering deep analytics on revenue g
 ## 🖼️ Dashboard Preview
 
 ### 1. Executive Overview
-![Executive Overview]([img/dashboard_overview.jpg](https://github.com/AymenAli-Analyst/Enterprise-Sales-Operations-Intelligence/blob/main/Screenshot%202026-07-25%20144041.png?raw=true))
+![Executive Overview](https://github.com/AymenAli-Analyst/Enterprise-Sales-Operations-Intelligence/blob/main/Screenshot%202026-07-25%20144041.png?raw=true)
 *High-level financial KPIs, annual trends, brand performance, and payment method distribution.*
 
 ### 2. Customer Performance & Analytics
