@@ -19,7 +19,7 @@ An end-to-end business intelligence suite delivering deep analytics on revenue g
 *Customer lifetime value, segmentation analysis, order status breakdown, and top-tier customer metrics.*
 
 ### 3. Operations & Returns Logistics
-![Operations & Returns](<img width="1145" height="642" alt="image" src="https://github.com/user-attachments/assets/056bce3e-0600-44f4-8293-f253558216ae" />
+![Operations & Returns](https://github.com/AymenAli-Analyst/Enterprise-Sales-Operations-Intelligence/blob/main/Screenshot%202026-07-25%20144258.png?raw=true
 )
 *Tax/shipping metrics, regional order fulfillment, return reasons, and product profitability.*
 
