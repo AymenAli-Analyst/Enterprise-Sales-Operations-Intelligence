@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Category,Subcategory,Brand,Unit_Price_SAR,Cost_Price_SAR,Stock_Quantity,Reorder_Level,Supplier_ID,Weight_kg,Warranty_Months,Rating,Is_Active
+PROD-000001,iPhone 14 Pro,Electronics,Smartphones,SaudiMart,2502.5,592.34,126,31,SUP-077,30.65,6,2.6,FALSE
+PROD-000002,Samsung Galaxy S23,Electronics,Smartphones,Najdi,1966.17,1351.75,1713,131,SUP-045,28.43,0,4.1,FALSE
+PROD-000003,Google Pixel 7,Electronics,Smartphones,RedSea,4224.05,1797.87,1857,183,SUP-011,12.93,24,2.8,FALSE
+PROD-000004,OnePlus 11,Electronics,Smartphones,RedSea,4111.37,1789.3,1771,85,SUP-083,31.93,12,4.3,FALSE
+PROD-000005,Xiaomi 13,Electronics,Smartphones,AlFaisal,2346.85,2153.16,241,82,SUP-177,40.78,24,2.8,TRUE
+PROD-000006,Huawei P60,Electronics,Smartphones,RedSea,849.05,1509.94,1191,74,SUP-163,42.13,36,4.8,FALSE
+PROD-000007,Oppo Find X6,Electronics,Smartphones,OasisHome,742.92,2350.71,355,139,SUP-197,18.94,12,3.1,TRUE
+PROD-000008,Realme GT,Electronics,Smartphones,DesertBloom,2505.6,920.92,1216,94,SUP-110,34.46,12,4.1,TRUE
+PROD-000009,Nothing Phone,Electronics,Smartphones,OasisHome,4462.78,97.96,57,59,SUP-165,5.1,12,3.1,FALSE
+PROD-000010,Sony Xperia,Electronics,Smartphones,AlFaisal,3787.68,2678.32,1153,95,SUP-092,44.97,6,3.9,TRUE
+PROD-000011,MacBook Pro M2,Electronics,Laptops,OasisHome,695.2,752.52,1616,105,SUP-186,12.31,12,3.5,TRUE
+PROD-000012,Dell XPS 15,Electronics,Laptops,DesertBloom,3874.35,1575.38,1972,126,SUP-094,38.54,12,3.3,TRUE
+PROD-000013,HP Spectre x360,Electronics,Laptops,SaudiMart,4866.37,2933.5,1722,199,SUP-158,27.4,0,3,FALSE
+PROD-000014,Lenovo ThinkPad X1,Electronics,Laptops,Najdi,380.03,1837.58,1843,113,SUP-173,22.9,0,2.7,TRUE
+PROD-000015,Asus ZenBook,Electronics,Laptops,GlobalTech,589.27,244.33,1533,155,SUP-028,31.87,6,3,TRUE
+PROD-000016,Acer Swift,Electronics,Laptops,OasisHome,3053.63,488.09,150,48,SUP-092,27.31,24,3.3,TRUE
+PROD-000017,Microsoft Surface,Electronics,Laptops,Najdi,1021.93,1803.63,1803,183,SUP-094,1.23,24,4.6,TRUE
+PROD-000018,Razer Blade,Electronics,Laptops,GlobalTech,4360.69,1116.96,78,187,SUP-155,27.88,0,2.7,TRUE
+PROD-000019,MSI Stealth,Electronics,Laptops,RedSea,1116.48,114.19,940,144,SUP-058,7,0,4.2,TRUE
+PROD-000020,LG Gram,Electronics,Laptops,Najdi,2835.81,444.94,1317,125,SUP-161,9.52,0,4.6,TRUE
+PROD-000021,iPad Pro,Electronics,Tablets,Najdi,4319.58,2803.24,1784,120,SUP-114,20.92,6,4.2,TRUE
+PROD-000022,Samsung Galaxy Tab,Electronics,Tablets,GlobalTech,1557.34,244.85,125,137,SUP-087,11.51,36,3.8,FALSE
+PROD-000023,Microsoft Surface Pro,Electronics,Tablets,GlobalTech,1392.46,804.28,2000,67,SUP-111,36.09,12,2.8,TRUE
+PROD-000024,Lenovo Tab,Electronics,Tablets,SaudiMart,3973.67,2013.43,1640,85,SUP-188,19.14,0,3.2,TRUE
+PROD-000025,Amazon Fire HD,Electronics,Tablets,Premium,3672.51,2502.52,1490,149,SUP-191,3.26,24,3.3,TRUE
+PROD-000026,Huawei MatePad,Electronics,Tablets,Premium,3635.41,2500.66,1860,99,SUP-014,17.85,12,4.1,TRUE
+PROD-000027,Xiaomi Pad,Electronics,Tablets,OasisHome,2794.87,1755.2,1000,106,SUP-035,39.84,36,3.7,TRUE
+PROD-000028,Realme Pad,Electronics,Tablets,RedSea,1678.64,1824.51,1868,164,SUP-143,47.14,36,2.9,TRUE
+PROD-000029,Google Pixel Tablet,Electronics,Tablets,AlFaisal,1733.94,890.93,1491,186,SUP-072,7.65,0,2.5,TRUE
+PROD-000030,Honor Pad,Electronics,Tablets,ValueMax,3061.27,362.41,1558,141,SUP-115,26.38,12,3.4,TRUE
+PROD-000031,Sony WH-1000XM5,Electronics,Headphones,AlFaisal,2209.32,1862.88,778,118,SUP-033,48.83,24,4,TRUE
+PROD-000032,Bose QuietComfort,Electronics,Headphones,OasisHome,2839.09,2405.21,1897,22,SUP-009,37.33,6,4.1,TRUE
+PROD-000033,Apple AirPods Max,Electronics,Headphones,OasisHome,2980.31,2583.08,375,183,SUP-095,20.08,6,3.6,FALSE
+PROD-000034,Sennheiser Momentum,Electronics,Headphones,OasisHome,540.97,2452.88,323,99,SUP-093,26.59,24,4.5,TRUE
+PROD-000035,JBL Tour,Electronics,Headphones,OasisHome,4999.07,2216.36,239,36,SUP-114,17.62,24,3.1,TRUE
+PROD-000036,Beats Studio,Electronics,Headphones,AlFaisal,2792.56,1238.48,1826,95,SUP-145,31.64,0,3.3,TRUE
+PROD-000037,Audio-Technica,Electronics,Headphones,Najdi,2902.03,939.91,1132,146,SUP-141,23.83,24,4.8,TRUE
+PROD-000038,Skullcandy Crusher,Electronics,Headphones,AlFaisal,4755.34,2652.96,441,109,SUP-179,33.49,36,2.7,TRUE
+PROD-000039,Jabra Elite,Electronics,Headphones,AlFaisal,3920.54,841.59,1836,64,SUP-085,21.72,24,3,FALSE
+PROD-000040,Anker Soundcore,Electronics,Headphones,RedSea,1007.55,2338,1752,51,SUP-111,4.21,6,2.5,TRUE
+PROD-000041,Canon EOS R6,Electronics,Cameras,Premium,2112.18,1604.33,1479,200,SUP-122,27.96,6,4.2,FALSE
+PROD-000042,Sony A7 IV,Electronics,Cameras,Hijazi,1662.61,948.96,813,188,SUP-113,39.53,0,4.2,FALSE
+PROD-000043,Nikon Z6 II,Electronics,Cameras,AlFaisal,195.11,1156.41,1261,171,SUP-027,34.23,6,5,TRUE
+PROD-000044,Fujifilm X-T5,Electronics,Cameras,Najdi,2597.17,1699.6,563,94,SUP-021,21.08,36,3.1,TRUE
+PROD-000045,Panasonic Lumix,Electronics,Cameras,GlobalTech,449.45,1149.51,1305,158,SUP-082,15.68,0,2.9,TRUE
+PROD-000046,Olympus OM-D,Electronics,Cameras,GlobalTech,2596.72,1184.4,1419,188,SUP-003,35.82,24,3.1,TRUE
+PROD-000047,Leica Q3,Electronics,Cameras,AlFaisal,3702.42,1653.19,1775,63,SUP-038,29.78,0,3.6,TRUE
+PROD-000048,GoPro Hero 11,Electronics,Cameras,Najdi,479.97,2088.19,126,132,SUP-189,40.61,36,3.8,FALSE
+PROD-000049,DJI Osmo,Electronics,Cameras,GlobalTech,3245.21,878.61,592,194,SUP-083,47.67,12,4.8,TRUE
+PROD-000050,Insta360,Electronics,Cameras,SaudiMart,34.82,1940.03,1602,106,SUP-173,38.19,24,4.3,FALSE
+PROD-000051,Apple Watch Ultra,Electronics,Smart Watches,RedSea,618.71,2666.82,1840,127,SUP-192,41.27,12,4.7,TRUE
+PROD-000052,Samsung Galaxy Watch,Electronics,Smart Watches,GlobalTech,2015.86,608.31,358,113,SUP-057,42.98,6,4.3,TRUE
+PROD-000053,Garmin Fenix,Electronics,Smart Watches,SaudiMart,1672.6,2205.91,948,196,SUP-130,40.7,24,4.7,FALSE
+PROD-000054,Fitbit Sense,Electronics,Smart Watches,SaudiMart,946.39,2719.68,689,25,SUP-117,35.98,24,3.6,TRUE
+PROD-000055,Huawei Watch,Electronics,Smart Watches,Najdi,2884.26,2023.96,39,151,SUP-093,35.62,24,2.7,TRUE
+PROD-000056,Amazfit GTR,Electronics,Smart Watches,Najdi,2571.79,1233.99,708,73,SUP-035,19.34,12,3.7,TRUE
+PROD-000057,Polar Vantage,Electronics,Smart Watches,RedSea,334.6,2020.08,28,192,SUP-193,41.91,6,3.9,TRUE
+PROD-000058,Suunto 9,Electronics,Smart Watches,Premium,4221.28,960.51,1612,119,SUP-013,0.46,0,3.9,TRUE
+PROD-000059,TicWatch Pro,Electronics,Smart Watches,SaudiMart,4509.85,1468.9,793,181,SUP-056,26.61,36,2.8,TRUE
+PROD-000060,Withings ScanWatch,Electronics,Smart Watches,ValueMax,3162.55,442.13,166,164,SUP-025,25.35,36,4.5,TRUE
+PROD-000061,PlayStation 5,Electronics,Gaming Consoles,ValueMax,2678.41,2626.74,263,44,SUP-106,16.69,0,4.6,TRUE
+PROD-000062,Xbox Series X,Electronics,Gaming Consoles,Hijazi,3689.05,1374.15,1524,22,SUP-027,25.62,36,3.6,FALSE
+PROD-000063,Nintendo Switch,Electronics,Gaming Consoles,AlFaisal,3750.76,385.41,268,98,SUP-153,39.16,12,2.8,TRUE
+PROD-000064,Steam Deck,Electronics,Gaming Consoles,DesertBloom,2559.17,2721.68,1707,123,SUP-112,16.92,0,3.7,FALSE
+PROD-000065,ASUS ROG Ally,Electronics,Gaming Consoles,OasisHome,402.32,257.67,1258,137,SUP-075,28.51,0,3.1,TRUE
+PROD-000066,PlayStation VR2,Electronics,Gaming Consoles,Hijazi,3386.69,1284.76,373,108,SUP-088,30.88,24,3.6,TRUE
+PROD-000067,Meta Quest 3,Electronics,Gaming Consoles,GlobalTech,477.75,1559.88,261,102,SUP-112,37.7,24,4.1,TRUE
+PROD-000068,Atari VCS,Electronics,Gaming Consoles,GlobalTech,1926.11,1791.65,933,63,SUP-121,4.87,12,3.1,TRUE
+PROD-000069,Analogue Pocket,Electronics,Gaming Consoles,Najdi,873.19,286.26,1511,69,SUP-074,6.16,12,2.6,TRUE
+PROD-000070,Retro Game Console,Electronics,Gaming Consoles,RedSea,2020.22,2143.11,637,171,SUP-107,42.29,36,3.6,FALSE
+PROD-000071,Samsung Neo QLED,Electronics,TVs,RedSea,3233.92,892.95,1433,100,SUP-078,35.47,36,2.9,FALSE
+PROD-000072,LG OLED C3,Electronics,TVs,OasisHome,3079.73,1676.71,362,47,SUP-195,6.44,12,4.8,FALSE
+PROD-000073,Sony Bravia XR,Electronics,TVs,Hijazi,1408.28,127.64,1595,109,SUP-015,10.98,0,3.4,TRUE
+PROD-000074,TCL Mini LED,Electronics,TVs,RedSea,3824.27,1142.7,110,159,SUP-181,33.17,12,4.2,FALSE
+PROD-000075,Hisense U8K,Electronics,TVs,OasisHome,2734.38,2369.3,600,142,SUP-126,4,12,2.7,TRUE
+PROD-000076,Philips Ambilight,Electronics,TVs,OasisHome,3211.42,1559.75,1425,183,SUP-064,13.25,0,2.6,TRUE
+PROD-000077,Panasonic OLED,Electronics,TVs,Hijazi,4137.64,412.94,1495,178,SUP-115,21.14,24,3.4,TRUE
+PROD-000078,Sharp Aquos,Electronics,TVs,SaudiMart,4385.34,2455.44,1293,32,SUP-061,44.61,6,3,FALSE
+PROD-000079,Vizio Quantum,Electronics,TVs,Hijazi,4276.97,1465.08,524,99,SUP-025,1.77,36,3.1,FALSE
+PROD-000080,Skyworth Android TV,Electronics,TVs,GlobalTech,3750.49,2287.65,1064,67,SUP-181,2.84,0,3,TRUE
+PROD-000081,Sonos Era 300,Electronics,Speakers,SaudiMart,3117.02,742.57,1509,150,SUP-047,23.92,0,4.8,FALSE
+PROD-000082,Bose Home Speaker,Electronics,Speakers,OasisHome,3442.1,2763.42,1670,33,SUP-055,4.08,0,3.6,FALSE
+PROD-000083,JBL Flip 6,Electronics,Speakers,RedSea,4507.17,2109.35,197,148,SUP-069,23.8,36,3.7,FALSE
+PROD-000084,Marshall Stanmore,Electronics,Speakers,Premium,2752.3,2964.23,716,148,SUP-161,35.26,24,4,TRUE
+PROD-000085,Harman Kardon,Electronics,Speakers,Hijazi,3507.34,1435.45,202,94,SUP-154,4.42,36,4.6,FALSE
+PROD-000086,Bang & Olufsen,Electronics,Speakers,GlobalTech,3241.82,1839.51,1906,116,SUP-151,35.45,6,4.5,TRUE
+PROD-000087,KEF LS50,Electronics,Speakers,GlobalTech,118.44,2582.03,1971,72,SUP-035,38.12,36,4.9,FALSE
+PROD-000088,Devialet Phantom,Electronics,Speakers,Premium,4285.37,1629.66,1352,175,SUP-147,26.31,6,2.5,TRUE
+PROD-000089,Anker Soundcore,Electronics,Speakers,DesertBloom,4711.2,2818.44,677,35,SUP-165,11.49,0,4.7,TRUE
+PROD-000090,Edifier,Electronics,Speakers,RedSea,482.51,823.56,344,30,SUP-188,22.2,24,3.4,TRUE
+PROD-000091,Wireless Charger,Electronics,Accessories,OasisHome,1091.77,539.92,1152,92,SUP-154,18.74,24,2.6,FALSE
+PROD-000092,USB-C Hub,Electronics,Accessories,GlobalTech,4969.22,1623.51,1610,181,SUP-175,28.4,36,3.7,TRUE
+PROD-000093,Power Bank,Electronics,Accessories,AlFaisal,1041.95,2871.08,1111,133,SUP-102,3.59,36,3.6,FALSE
+PROD-000094,Phone Case,Electronics,Accessories,Najdi,774.41,2849.91,1925,70,SUP-086,15.07,12,3.5,TRUE
+PROD-000095,Screen Protector,Electronics,Accessories,RedSea,3610.47,2961.53,246,108,SUP-190,9.95,36,4.1,TRUE
+PROD-000096,Cable Organizer,Electronics,Accessories,Premium,4118.19,1925.16,1777,170,SUP-183,43.32,6,4.9,TRUE
+PROD-000097,Laptop Stand,Electronics,Accessories,DesertBloom,4352.66,2737.46,65,153,SUP-197,16.66,0,3.3,TRUE
+PROD-000098,Webcam,Electronics,Accessories,DesertBloom,1409.14,2931.36,923,28,SUP-056,20.28,12,3,TRUE
+PROD-000099,Microphone,Electronics,Accessories,Hijazi,3618.33,659.45,418,96,SUP-163,7.54,0,3.2,FALSE
+PROD-000100,RGB Mouse Pad,Electronics,Accessories,GlobalTech,4012.36,1720.45,987,120,SUP-042,42.27,24,4.5,FALSE
+PROD-000101,Cotton T-Shirt,Fashion,Men's Clothing,ValueMax,4269.99,1980.68,1502,95,SUP-187,7.14,36,2.9,TRUE
+PROD-000102,Slim Fit Jeans,Fashion,Men's Clothing,GlobalTech,2482.63,1491.22,547,158,SUP-197,6.76,12,4.7,FALSE
+PROD-000103,Formal Shirt,Fashion,Men's Clothing,AlFaisal,4923.04,2198.26,1004,195,SUP-146,21.15,0,3.1,TRUE
+PROD-000104,Polo Shirt,Fashion,Men's Clothing,SaudiMart,3317.25,2181.89,562,170,SUP-100,40.84,36,4.8,TRUE
+PROD-000105,Chino Pants,Fashion,Men's Clothing,GlobalTech,3057.49,1181.37,985,43,SUP-071,17.61,0,5,TRUE
+PROD-000106,Hoodie,Fashion,Men's Clothing,Premium,4510.16,1305,1039,131,SUP-042,41.81,6,3.6,TRUE
+PROD-000107,Bomber Jacket,Fashion,Men's Clothing,Hijazi,2320.51,2030.87,1991,138,SUP-032,8.98,36,4,TRUE
+PROD-000108,Suit Blazer,Fashion,Men's Clothing,ValueMax,3941.84,1482.02,1477,142,SUP-001,33.33,24,4.1,TRUE
+PROD-000109,Cargo Shorts,Fashion,Men's Clothing,DesertBloom,868.75,1320.15,1764,128,SUP-199,8.13,12,3.3,TRUE
+PROD-000110,Tank Top,Fashion,Men's Clothing,Hijazi,2536.27,2544.34,1943,70,SUP-001,35,0,3,FALSE
+PROD-000111,Floral Dress,Fashion,Women's Clothing,Premium,3191.08,127.64,1603,93,SUP-109,44.91,12,4.6,TRUE
+PROD-000112,Skinny Jeans,Fashion,Women's Clothing,ValueMax,452.08,2290.29,1106,126,SUP-139,32.31,12,4,FALSE
+PROD-000113,Blouse,Fashion,Women's Clothing,RedSea,3017.06,586.68,365,21,SUP-054,36.11,6,2.9,FALSE
+PROD-000114,Maxi Skirt,Fashion,Women's Clothing,Premium,2361.98,1947.33,423,140,SUP-094,18.67,24,3.8,TRUE
+PROD-000115,Cardigan,Fashion,Women's Clothing,AlFaisal,2428.3,2083.41,791,103,SUP-055,0.31,6,3.2,FALSE
+PROD-000116,Crop Top,Fashion,Women's Clothing,RedSea,1037.54,2733.76,228,76,SUP-034,7.59,12,4.9,TRUE
+PROD-000117,Wide Leg Pants,Fashion,Women's Clothing,SaudiMart,1304.54,421.27,863,120,SUP-079,37.65,12,4.3,TRUE
+PROD-000118,Evening Gown,Fashion,Women's Clothing,ValueMax,1417.01,2718.65,757,185,SUP-165,22.23,0,3.2,TRUE
+PROD-000119,Kimono,Fashion,Women's Clothing,Najdi,2118.11,443.3,1346,84,SUP-126,21.98,0,3,TRUE
+PROD-000120,Jumpsuit,Fashion,Women's Clothing,Premium,311.05,2885.7,124,32,SUP-037,12.83,36,4.4,FALSE
+PROD-000121,Cartoon T-Shirt,Fashion,Kids' Clothing,RedSea,579.33,1383.79,1203,81,SUP-154,30.19,24,4,TRUE
+PROD-000122,School Uniform,Fashion,Kids' Clothing,OasisHome,3782.93,1841.53,415,82,SUP-130,9.87,6,3.8,FALSE
+PROD-000123,Winter Jacket,Fashion,Kids' Clothing,Premium,2569.16,1658.69,1631,122,SUP-134,29.08,36,2.9,TRUE
+PROD-000124,Pajama Set,Fashion,Kids' Clothing,Hijazi,1063.81,2612.69,888,157,SUP-027,45.56,24,3.4,TRUE
+PROD-000125,Denim Overalls,Fashion,Kids' Clothing,OasisHome,1673.12,1477.54,1695,182,SUP-155,41.71,36,3.1,FALSE
+PROD-000126,Sports Jersey,Fashion,Kids' Clothing,OasisHome,3667.78,1084.85,233,168,SUP-155,26.19,24,4.9,TRUE
+PROD-000127,Rain Coat,Fashion,Kids' Clothing,ValueMax,2028.32,2003.35,1903,73,SUP-075,8.91,36,4.3,TRUE
+PROD-000128,Swimwear,Fashion,Kids' Clothing,Premium,1982.13,468.67,1473,59,SUP-105,33.17,24,3,TRUE
+PROD-000129,Party Dress,Fashion,Kids' Clothing,SaudiMart,2255.87,1325.58,1517,133,SUP-199,26.96,24,4.9,TRUE
+PROD-000130,Track Suit,Fashion,Kids' Clothing,ValueMax,2418.52,1602.06,138,175,SUP-012,18.01,36,3.6,FALSE
+PROD-000131,Running Sneakers,Fashion,Shoes,Premium,4748.86,1725.88,1164,78,SUP-056,1.75,6,4.2,TRUE
+PROD-000132,Leather Oxfords,Fashion,Shoes,SaudiMart,3348.14,480.23,524,55,SUP-100,5.96,6,3.1,TRUE
+PROD-000133,High Heels,Fashion,Shoes,Premium,3469.22,1498.31,797,109,SUP-028,26.45,12,4.4,TRUE
+PROD-000134,Sandals,Fashion,Shoes,ValueMax,2689.56,1231.3,805,40,SUP-055,7.15,12,2.6,TRUE
+PROD-000135,Boots,Fashion,Shoes,AlFaisal,4859.14,554,956,123,SUP-053,30.01,12,3.7,TRUE
+PROD-000136,Slip-Ons,Fashion,Shoes,Najdi,3307.69,1574,70,22,SUP-120,7.08,12,4.6,TRUE
+PROD-000137,Basketball Shoes,Fashion,Shoes,Premium,3877.27,2377.9,55,168,SUP-160,40.61,36,3.6,TRUE
+PROD-000138,Hiking Boots,Fashion,Shoes,RedSea,3229.69,2630.49,641,196,SUP-005,46.5,0,4.7,TRUE
+PROD-000139,Ballet Flats,Fashion,Shoes,RedSea,2523.55,1405.76,457,108,SUP-185,30.41,12,3.2,TRUE
+PROD-000140,Crocs,Fashion,Shoes,AlFaisal,1185.73,1150.06,601,178,SUP-145,19.65,0,3.7,FALSE
+PROD-000141,Leather Backpack,Fashion,Bags,Hijazi,724.96,488.82,1428,129,SUP-079,43.53,24,4.3,TRUE
+PROD-000142,Tote Bag,Fashion,Bags,AlFaisal,4672.6,716.93,69,22,SUP-038,24.89,6,3.7,TRUE
+PROD-000143,Crossbody Bag,Fashion,Bags,SaudiMart,4282.49,1432.95,859,176,SUP-121,38.22,24,4.2,TRUE
+PROD-000144,Laptop Bag,Fashion,Bags,Premium,3464.02,2692.18,221,84,SUP-092,12.09,36,3.4,TRUE
+PROD-000145,Duffel Bag,Fashion,Bags,GlobalTech,4654.27,1551.04,1787,38,SUP-040,38.11,0,3.7,TRUE
+PROD-000146,Clutch,Fashion,Bags,SaudiMart,141.11,1838.7,1577,178,SUP-176,4.14,12,3.4,TRUE
+PROD-000147,Waist Bag,Fashion,Bags,ValueMax,1106.93,1759.58,1355,60,SUP-037,43.34,12,3.3,FALSE
+PROD-000148,Weekender,Fashion,Bags,AlFaisal,925.95,551.04,196,97,SUP-191,48.63,36,3.3,TRUE
+PROD-000149,Diaper Bag,Fashion,Bags,OasisHome,3115.18,2322.65,1176,115,SUP-168,4.36,24,3.5,TRUE
+PROD-000150,Gym Bag,Fashion,Bags,OasisHome,4689.75,721.5,162,101,SUP-112,29.23,36,4.8,FALSE
+PROD-000151,Analog Dress Watch,Fashion,Watches,SaudiMart,1755.9,1980.62,1564,131,SUP-154,18.53,0,2.5,FALSE
+PROD-000152,Digital Sports Watch,Fashion,Watches,OasisHome,2064.84,343.02,1608,36,SUP-036,25.99,24,3.2,TRUE
+PROD-000153,Smart Watch,Fashion,Watches,GlobalTech,2275.09,578.72,50,195,SUP-097,28.94,36,3.1,TRUE
+PROD-000154,Chronograph,Fashion,Watches,GlobalTech,1387.84,403.95,902,152,SUP-150,30.16,36,4.7,FALSE
+PROD-000155,Diver Watch,Fashion,Watches,DesertBloom,2533.99,2885.62,480,21,SUP-200,32.12,36,3.2,TRUE
+PROD-000156,Pilot Watch,Fashion,Watches,DesertBloom,387.47,1082.65,656,118,SUP-014,28.03,6,4.4,TRUE
+PROD-000157,Minimalist Watch,Fashion,Watches,DesertBloom,3268.27,167.7,1437,159,SUP-091,37.24,36,3.9,TRUE
+PROD-000158,Skeleton Watch,Fashion,Watches,RedSea,3072.1,1658.45,1122,89,SUP-070,48.07,36,4.7,FALSE
+PROD-000159,Field Watch,Fashion,Watches,AlFaisal,4950.43,1381.49,1274,67,SUP-128,32.11,0,4.2,TRUE
+PROD-000160,Vintage Watch,Fashion,Watches,RedSea,2559.09,923.71,966,29,SUP-087,20.02,6,3.1,TRUE
+PROD-000161,Gold Necklace,Fashion,Jewelry,AlFaisal,1971.6,28.28,1328,99,SUP-070,31.34,0,3.4,TRUE
+PROD-000162,Silver Bracelet,Fashion,Jewelry,DesertBloom,4202.67,2724.29,1377,76,SUP-086,2.73,24,4.1,FALSE
+PROD-000163,Diamond Ring,Fashion,Jewelry,Najdi,4184.12,2540.55,1699,112,SUP-008,49.23,36,2.6,TRUE
+PROD-000164,Pearl Earrings,Fashion,Jewelry,AlFaisal,3485.72,1289.17,992,157,SUP-148,10.72,24,3.9,TRUE
+PROD-000165,Charm Pendant,Fashion,Jewelry,ValueMax,494.65,1808.71,998,88,SUP-058,23.14,36,4.6,TRUE
+PROD-000166,Cufflinks,Fashion,Jewelry,OasisHome,1638.15,464,1421,165,SUP-188,46.4,24,4.5,TRUE
+PROD-000167,Anklet,Fashion,Jewelry,ValueMax,636.88,421.15,865,89,SUP-128,3.66,12,3,TRUE
+PROD-000168,Brooch,Fashion,Jewelry,DesertBloom,417.09,230.22,1295,168,SUP-013,6.63,24,4.4,TRUE
+PROD-000169,Tennis Bracelet,Fashion,Jewelry,OasisHome,2432.53,582.9,1295,161,SUP-028,39.16,6,2.5,TRUE
+PROD-000170,Statement Necklace,Fashion,Jewelry,GlobalTech,4983.55,1115.02,332,83,SUP-126,26.75,0,3,FALSE
+PROD-000171,Aviator,Fashion,Sunglasses,OasisHome,4004.01,2215.52,370,151,SUP-114,13.29,6,4.5,FALSE
+PROD-000172,Wayfarer,Fashion,Sunglasses,AlFaisal,2026.01,2697.45,1131,120,SUP-106,38.04,0,4.4,TRUE
+PROD-000173,Cat Eye,Fashion,Sunglasses,Premium,218.07,156.46,737,162,SUP-148,32.91,6,3.9,TRUE
+PROD-000174,Round Frame,Fashion,Sunglasses,Hijazi,4163.38,2596.55,108,43,SUP-081,13.55,36,5,TRUE
+PROD-000175,Oversized,Fashion,Sunglasses,Hijazi,2709.17,1682.97,101,143,SUP-117,31.09,12,4,TRUE
+PROD-000176,Sport Wrap,Fashion,Sunglasses,RedSea,4401.37,2939.78,1784,49,SUP-089,33.52,0,4.9,TRUE
+PROD-000177,Clubmaster,Fashion,Sunglasses,Najdi,2040.62,2666.71,1347,172,SUP-088,12.7,24,2.7,TRUE
+PROD-000178,Butterfly,Fashion,Sunglasses,Najdi,4594.77,1249.76,289,121,SUP-101,21.47,36,3.4,TRUE
+PROD-000179,Shield,Fashion,Sunglasses,AlFaisal,1186.2,2622.33,1402,122,SUP-057,24.93,24,3.6,TRUE
+PROD-000180,Retro Square,Fashion,Sunglasses,ValueMax,3109.29,1061.77,1227,31,SUP-044,33.17,12,3.2,TRUE
+PROD-000181,Compression Shirt,Fashion,Sportswear,OasisHome,4471.91,1686.65,1709,129,SUP-047,9.31,24,4.9,TRUE
+PROD-000182,Yoga Leggings,Fashion,Sportswear,ValueMax,3236.44,1583.27,802,44,SUP-080,19.31,6,3.9,TRUE
+PROD-000183,Running Shorts,Fashion,Sportswear,Najdi,1101.35,1010.77,1926,35,SUP-169,18.77,6,3,TRUE
+PROD-000184,Training Jacket,Fashion,Sportswear,GlobalTech,3155.29,239.08,403,108,SUP-111,5.77,0,4.9,TRUE
+PROD-000185,Cycling Jersey,Fashion,Sportswear,DesertBloom,2433.46,874.27,384,96,SUP-079,22.87,36,4.5,FALSE
+PROD-000186,Swim Trunks,Fashion,Sportswear,DesertBloom,3744.51,686.17,1270,48,SUP-124,38.21,0,4,FALSE
+PROD-000187,Tennis Skirt,Fashion,Sportswear,Premium,814.99,517.12,1069,159,SUP-088,33.35,36,5,TRUE
+PROD-000188,Boxing Gloves,Fashion,Sportswear,OasisHome,613.8,1906.69,1538,100,SUP-179,34.11,24,3.3,FALSE
+PROD-000189,Mouth Guard,Fashion,Sportswear,RedSea,2243.22,90.61,924,69,SUP-157,23.89,36,4.1,TRUE
+PROD-000190,Sweatband,Fashion,Sportswear,Hijazi,1745.86,1029.91,993,170,SUP-147,40.52,0,3.5,TRUE
+PROD-000191,Thobe,Fashion,Traditional Wear,RedSea,1323.77,991.78,176,149,SUP-010,29.91,12,3.3,TRUE
+PROD-000192,Abaya,Fashion,Traditional Wear,ValueMax,4491.04,1990.28,592,46,SUP-095,46.1,36,4.9,TRUE
+PROD-000193,Shalwar Kameez,Fashion,Traditional Wear,RedSea,2742.55,26.14,1971,129,SUP-198,4.45,24,2.6,FALSE
+PROD-000194,Kaftan,Fashion,Traditional Wear,RedSea,3040.09,358.97,626,103,SUP-055,49.97,24,4.2,TRUE
+PROD-000195,Sherwani,Fashion,Traditional Wear,DesertBloom,115.05,2458.44,780,176,SUP-025,13.88,0,3.4,TRUE
+PROD-000196,Kandura,Fashion,Traditional Wear,GlobalTech,1763.26,1426.31,384,141,SUP-109,44.79,36,3.2,TRUE
+PROD-000197,Bisht,Fashion,Traditional Wear,OasisHome,1346.64,1890.84,1037,37,SUP-004,30.97,24,2.8,TRUE
+PROD-000198,Ghutra,Fashion,Traditional Wear,Hijazi,3217.13,1973.71,612,108,SUP-027,15.65,12,2.7,TRUE
+PROD-000199,Iqal,Fashion,Traditional Wear,AlFaisal,2668.1,574.76,996,74,SUP-099,27.5,24,2.9,FALSE
+PROD-000200,Shemagh,Fashion,Traditional Wear,Najdi,3636.47,2535.95,1059,32,SUP-137,12.94,36,3.8,TRUE
+PROD-000201,Sofa Set,Home & Kitchen,Furniture,Najdi,4141.47,938.31,286,139,SUP-183,8.58,6,4.1,TRUE
+PROD-000202,Dining Table,Home & Kitchen,Furniture,ValueMax,3026.65,1371.38,35,99,SUP-186,46.86,12,3.1,TRUE
+PROD-000203,Bed Frame,Home & Kitchen,Furniture,OasisHome,124.16,28.51,1375,20,SUP-067,17.95,0,4.2,TRUE
+PROD-000204,Wardrobe,Home & Kitchen,Furniture,Premium,431.97,1543.63,472,74,SUP-014,1.52,24,4.1,FALSE
+PROD-000205,Coffee Table,Home & Kitchen,Furniture,OasisHome,3576.77,423.02,935,66,SUP-043,10.42,24,3.1,FALSE
+PROD-000206,Bookshelf,Home & Kitchen,Furniture,ValueMax,4287.68,185.28,1702,73,SUP-038,45.85,24,4.7,TRUE
+PROD-000207,TV Stand,Home & Kitchen,Furniture,ValueMax,254.64,1397.27,730,73,SUP-084,42.18,6,3.5,TRUE
+PROD-000208,Office Desk,Home & Kitchen,Furniture,RedSea,2954.68,164.85,1625,108,SUP-054,48.07,36,3.7,TRUE
+PROD-000209,Recliner,Home & Kitchen,Furniture,RedSea,4219.69,296.88,1386,188,SUP-089,40.49,36,3.6,TRUE
+PROD-000210,Ottoman,Home & Kitchen,Furniture,Najdi,310.29,1144.5,126,26,SUP-157,28.13,24,2.9,TRUE
+PROD-000211,Air Fryer,Home & Kitchen,Kitchen Appliances,SaudiMart,3507.77,276.43,1340,198,SUP-063,5.81,24,3.2,TRUE
+PROD-000212,Blender,Home & Kitchen,Kitchen Appliances,ValueMax,3080.42,274.34,409,131,SUP-094,21.05,0,4.9,TRUE
+PROD-000213,Coffee Maker,Home & Kitchen,Kitchen Appliances,AlFaisal,4622.18,2656.58,354,129,SUP-011,2.2,6,3.9,TRUE
+PROD-000214,Rice Cooker,Home & Kitchen,Kitchen Appliances,DesertBloom,958.86,785.18,737,138,SUP-156,45.67,6,3.8,TRUE
+PROD-000215,Microwave Oven,Home & Kitchen,Kitchen Appliances,ValueMax,1513.55,2629.01,1151,164,SUP-043,7.86,0,4.1,TRUE
+PROD-000216,Toaster,Home & Kitchen,Kitchen Appliances,Hijazi,1620.57,1792.69,1275,133,SUP-118,17.83,12,3.3,TRUE
+PROD-000217,Food Processor,Home & Kitchen,Kitchen Appliances,Premium,4232.32,2432.37,1378,178,SUP-172,16.72,24,3,TRUE
+PROD-000218,Electric Kettle,Home & Kitchen,Kitchen Appliances,Najdi,2459.91,1274.88,1582,136,SUP-015,10.59,0,2.7,TRUE
+PROD-000219,Stand Mixer,Home & Kitchen,Kitchen Appliances,GlobalTech,1238.26,1934.87,1910,199,SUP-133,24.7,6,4.1,TRUE
+PROD-000220,Slow Cooker,Home & Kitchen,Kitchen Appliances,DesertBloom,382.38,867.43,1047,74,SUP-086,14.5,12,4.4,FALSE
+PROD-000221,Cotton Sheet Set,Home & Kitchen,Bedding,RedSea,2826.03,1582.92,1287,79,SUP-159,21.3,36,4.9,TRUE
+PROD-000222,Duvet Cover,Home & Kitchen,Bedding,AlFaisal,766.19,2603.84,440,29,SUP-160,42.87,12,4.2,TRUE
+PROD-000223,Memory Foam Pillow,Home & Kitchen,Bedding,DesertBloom,4822.9,1061.1,1003,70,SUP-175,49.25,24,3.5,TRUE
+PROD-000224,Weighted Blanket,Home & Kitchen,Bedding,Najdi,4764.98,2173.48,1311,164,SUP-183,36.77,6,4.9,TRUE
+PROD-000225,Mattress Protector,Home & Kitchen,Bedding,Hijazi,523.5,1078.95,1596,102,SUP-107,44.58,0,3.9,TRUE
+PROD-000226,Quilt,Home & Kitchen,Bedding,SaudiMart,4007.1,2459.2,332,65,SUP-027,35.82,6,4,TRUE
+PROD-000227,Throw Blanket,Home & Kitchen,Bedding,GlobalTech,906.65,2581.61,855,172,SUP-132,11.3,6,2.9,TRUE
+PROD-000228,Bed Skirt,Home & Kitchen,Bedding,RedSea,507.13,2928.73,1915,62,SUP-105,40.96,6,3.5,TRUE
+PROD-000229,Pillowcase Set,Home & Kitchen,Bedding,GlobalTech,1485.44,963.73,1860,141,SUP-028,16.87,0,3.2,TRUE
+PROD-000230,Comforter,Home & Kitchen,Bedding,ValueMax,1972.94,1634.33,902,146,SUP-141,25.05,0,4.4,TRUE
+PROD-000231,Wall Art,Home & Kitchen,Decor,GlobalTech,3199.75,2286.57,205,73,SUP-046,21.19,12,3,TRUE
+PROD-000232,Vase,Home & Kitchen,Decor,Najdi,963.02,1071.15,550,126,SUP-157,34.06,6,3,FALSE
+PROD-000233,Candle Holder,Home & Kitchen,Decor,ValueMax,3532.91,266.97,1794,107,SUP-114,4.23,24,3.1,TRUE
+PROD-000234,Mirror,Home & Kitchen,Decor,Premium,514.48,885.5,693,55,SUP-117,48.35,36,4.3,FALSE
+PROD-000235,Clock,Home & Kitchen,Decor,DesertBloom,3155.56,27.74,373,75,SUP-085,21.53,0,5,TRUE
+PROD-000236,Photo Frame,Home & Kitchen,Decor,SaudiMart,3118.33,2281.47,1093,130,SUP-131,30.39,0,4,TRUE
+PROD-000237,Rug,Home & Kitchen,Decor,SaudiMart,2416.29,1685.56,1014,165,SUP-101,28.52,36,3.9,TRUE
+PROD-000238,Curtains,Home & Kitchen,Decor,ValueMax,4990.98,377.01,1832,180,SUP-146,14.59,24,3.2,TRUE
+PROD-000239,Throw Pillow,Home & Kitchen,Decor,DesertBloom,1183.9,1981.04,1225,198,SUP-170,0.54,6,3.2,TRUE
+PROD-000240,Planter,Home & Kitchen,Decor,AlFaisal,578.7,2545.48,669,153,SUP-195,19.88,6,4.7,FALSE
+PROD-000241,LED Headlight Bulb,Home & Kitchen,Lighting,OasisHome,1676.18,614.48,1801,141,SUP-009,6.62,36,4,FALSE
+PROD-000242,Fog Light,Home & Kitchen,Lighting,Najdi,2515.59,2429.39,1915,156,SUP-095,40.69,12,3,TRUE
+PROD-000243,Tail Light,Home & Kitchen,Lighting,Najdi,820.41,208.55,1458,191,SUP-178,20.31,0,3.3,TRUE
+PROD-000244,Interior LED Kit,Home & Kitchen,Lighting,Hijazi,1045.62,1844.01,824,113,SUP-176,39.54,6,2.7,TRUE
+PROD-000245,Underglow Kit,Home & Kitchen,Lighting,AlFaisal,2203.15,206.65,92,72,SUP-175,2.85,6,3.7,FALSE
+PROD-000246,Light Bar,Home & Kitchen,Lighting,SaudiMart,2792.76,1891.88,1184,104,SUP-141,19.21,24,4,TRUE
+PROD-000247,Strobe Light,Home & Kitchen,Lighting,Premium,1507.47,773.51,329,68,SUP-026,13.16,12,4.4,TRUE
+PROD-000248,License Plate Light,Home & Kitchen,Lighting,GlobalTech,856.58,2123.95,1976,160,SUP-111,2.36,6,4.1,TRUE
+PROD-000249,Turn Signal,Home & Kitchen,Lighting,ValueMax,4478.47,329.6,91,194,SUP-070,2.48,36,4.7,TRUE
+PROD-000250,Daytime Running Light,Home & Kitchen,Lighting,AlFaisal,633.79,2892.5,1526,46,SUP-075,0.21,0,3.9,TRUE
+PROD-000251,Plastic Container Set,Home & Kitchen,Storage,GlobalTech,3524.62,2026.11,981,181,SUP-070,35.79,36,4.2,TRUE
+PROD-000252,Closet Organizer,Home & Kitchen,Storage,Najdi,1284.47,2667.92,351,125,SUP-078,22.67,12,4.2,TRUE
+PROD-000253,Shoe Rack,Home & Kitchen,Storage,ValueMax,3702.91,541.49,697,74,SUP-154,46.42,24,2.5,TRUE
+PROD-000254,Under-Bed Storage,Home & Kitchen,Storage,DesertBloom,1278.72,1614.31,171,136,SUP-073,35.42,12,2.8,TRUE
+PROD-000255,Drawer Divider,Home & Kitchen,Storage,ValueMax,3500.98,2469,1648,122,SUP-136,32.6,6,3.6,FALSE
+PROD-000256,Laundry Basket,Home & Kitchen,Storage,Premium,4282.9,65.33,200,160,SUP-166,27.49,6,2.9,FALSE
+PROD-000257,Garment Bag,Home & Kitchen,Storage,Najdi,627.8,784.9,326,157,SUP-011,30.31,24,2.5,TRUE
+PROD-000258,Storage Ottoman,Home & Kitchen,Storage,ValueMax,3812.82,1408.4,1445,23,SUP-156,21.82,6,3.4,TRUE
+PROD-000259,Wire Basket,Home & Kitchen,Storage,AlFaisal,3119.4,231.81,699,186,SUP-055,11.86,24,2.6,TRUE
+PROD-000260,Vacuum Bag,Home & Kitchen,Storage,OasisHome,1207.63,1798.89,3,156,SUP-100,2.67,6,3.7,FALSE
+PROD-000261,Non-Stick Pan,Home & Kitchen,Cookware,AlFaisal,2758.45,546.77,753,70,SUP-120,4.41,6,2.6,TRUE
+PROD-000262,Cast Iron Skillet,Home & Kitchen,Cookware,AlFaisal,1163.63,687.67,15,71,SUP-048,16.9,24,3.9,FALSE
+PROD-000263,Stainless Steel Pot,Home & Kitchen,Cookware,RedSea,2233.52,760.26,1845,37,SUP-049,46.21,6,2.7,TRUE
+PROD-000264,Dutch Oven,Home & Kitchen,Cookware,AlFaisal,470.82,1248.37,464,176,SUP-075,49.35,12,2.9,FALSE
+PROD-000265,Wok,Home & Kitchen,Cookware,Najdi,999.53,1108.92,1809,74,SUP-005,29.69,36,2.6,TRUE
+PROD-000266,Grill Pan,Home & Kitchen,Cookware,RedSea,3461.73,359.56,155,111,SUP-098,32.07,6,4.6,FALSE
+PROD-000267,Saucepan,Home & Kitchen,Cookware,Najdi,2488.25,627.81,626,127,SUP-181,9.87,0,4.4,TRUE
+PROD-000268,Roasting Pan,Home & Kitchen,Cookware,AlFaisal,856.29,1548.99,1308,54,SUP-055,7.05,12,4.2,TRUE
+PROD-000269,Steamer,Home & Kitchen,Cookware,Premium,3304.84,2177.73,1687,172,SUP-115,38.14,36,3,TRUE
+PROD-000270,Baking Sheet,Home & Kitchen,Cookware,ValueMax,4246.52,1071.02,897,136,SUP-081,27.53,6,3.4,TRUE
+PROD-000271,Dinner Plate Set,Home & Kitchen,Dining,ValueMax,2488.55,2938.02,793,95,SUP-002,47.73,12,2.7,TRUE
+PROD-000272,Wine Glasses,Home & Kitchen,Dining,GlobalTech,1627.47,130.4,631,86,SUP-118,25.2,0,4.7,FALSE
+PROD-000273,Cutlery Set,Home & Kitchen,Dining,AlFaisal,87.45,1204.44,290,147,SUP-163,1.14,6,4.1,TRUE
+PROD-000274,Serving Bowl,Home & Kitchen,Dining,RedSea,524.49,57.42,709,52,SUP-098,47.43,24,3,FALSE
+PROD-000275,Placemat,Home & Kitchen,Dining,RedSea,848.15,2798.22,1495,38,SUP-048,45.57,24,4.9,TRUE
+PROD-000276,Napkin Ring,Home & Kitchen,Dining,AlFaisal,4706.6,614.48,996,127,SUP-131,32.43,24,4,FALSE
+PROD-000277,Charcuterie Board,Home & Kitchen,Dining,Hijazi,3300.69,1174.49,1289,67,SUP-099,29.83,24,4.3,TRUE
+PROD-000278,Trivet,Home & Kitchen,Dining,GlobalTech,3459.23,624.72,271,144,SUP-158,38.77,36,4.9,TRUE
+PROD-000279,Salt & Pepper Shaker,Home & Kitchen,Dining,Hijazi,20.82,1925.82,854,190,SUP-124,6.12,36,3.5,TRUE
+PROD-000280,Butter Dish,Home & Kitchen,Dining,ValueMax,1426.33,289.32,1106,110,SUP-031,15.48,24,3.4,TRUE
+PROD-000281,Robot Vacuum,Home & Kitchen,Cleaning,Najdi,3699,2390.28,1115,92,SUP-150,47.43,6,3.5,FALSE
+PROD-000282,Steam Mop,Home & Kitchen,Cleaning,Premium,4405.16,2523.31,1987,148,SUP-118,28.36,24,2.7,TRUE
+PROD-000283,Microfiber Cloth,Home & Kitchen,Cleaning,SaudiMart,2834.56,1146.05,143,192,SUP-095,30.79,36,4.7,TRUE
+PROD-000284,Dish Brush,Home & Kitchen,Cleaning,AlFaisal,4766.62,1359.77,1226,31,SUP-141,25.28,0,3.6,TRUE
+PROD-000285,Toilet Brush,Home & Kitchen,Cleaning,OasisHome,288.41,2112.74,1577,76,SUP-074,36.82,24,4.3,TRUE
+PROD-000286,Trash Can,Home & Kitchen,Cleaning,GlobalTech,932.29,418.86,435,26,SUP-167,7.03,6,4.7,TRUE
+PROD-000287,Laundry Detergent,Home & Kitchen,Cleaning,ValueMax,4164.5,2109.08,1681,44,SUP-178,34.38,36,4.1,TRUE
+PROD-000288,All-Purpose Cleaner,Home & Kitchen,Cleaning,Hijazi,774.96,597.43,1616,72,SUP-063,18.65,36,2.9,TRUE
+PROD-000289,Glass Cleaner,Home & Kitchen,Cleaning,ValueMax,2711.6,2029.83,138,47,SUP-179,6.09,6,4.1,FALSE
+PROD-000290,Air Freshener,Home & Kitchen,Cleaning,Hijazi,4597.95,736.99,1686,189,SUP-118,30.12,24,3.9,FALSE
+PROD-000291,Patio Set,Home & Kitchen,Garden,Najdi,4901.67,2827.02,1682,60,SUP-063,19.64,36,4.3,TRUE
+PROD-000292,BBQ Grill,Home & Kitchen,Garden,DesertBloom,2971.89,1154.51,1786,124,SUP-085,5.29,12,4.2,FALSE
+PROD-000293,Garden Hose,Home & Kitchen,Garden,AlFaisal,2305.65,600.28,1839,123,SUP-040,41.02,24,3.8,TRUE
+PROD-000294,Plant Pot,Home & Kitchen,Garden,Premium,3185.28,2429.99,1258,180,SUP-032,29.42,24,2.9,TRUE
+PROD-000295,Outdoor Cushion,Home & Kitchen,Garden,ValueMax,2576.96,196.35,20,21,SUP-133,13.66,6,4,TRUE
+PROD-000296,Solar Light,Home & Kitchen,Garden,GlobalTech,2902.32,1652.74,1545,39,SUP-180,48.01,24,4,TRUE
+PROD-000297,Weed Killer,Home & Kitchen,Garden,OasisHome,120.4,1018.12,2,136,SUP-193,47.6,36,4.9,TRUE
+PROD-000298,Lawn Mower,Home & Kitchen,Garden,RedSea,1425.12,2541.95,349,132,SUP-025,41.31,36,2.9,TRUE
+PROD-000299,Pruning Shears,Home & Kitchen,Garden,DesertBloom,3535.21,848.66,1948,186,SUP-068,38.13,0,4.5,FALSE
+PROD-000300,Bird Feeder,Home & Kitchen,Garden,GlobalTech,3375.75,1778.97,1400,124,SUP-046,13.72,0,3.8,TRUE
+PROD-000301,Vitamin C Serum,Beauty & Personal Care,Skincare,GlobalTech,4723.05,1967.11,876,79,SUP-034,12.1,0,3,TRUE
+PROD-000302,Moisturizer,Beauty & Personal Care,Skincare,AlFaisal,2421.65,1996.88,156,29,SUP-063,23.84,6,2.9,TRUE
+PROD-000303,Sunscreen SPF50,Beauty & Personal Care,Skincare,ValueMax,1349.74,2158.42,263,112,SUP-137,10.6,12,2.7,FALSE
+PROD-000304,Face Wash,Beauty & Personal Care,Skincare,OasisHome,1584.38,1554.93,1636,50,SUP-106,14.22,12,4.3,FALSE
+PROD-000305,Eye Cream,Beauty & Personal Care,Skincare,Premium,1384.38,1440.76,1685,68,SUP-044,34.26,36,2.6,TRUE
+PROD-000306,Toner,Beauty & Personal Care,Skincare,SaudiMart,4438.52,2497.49,1328,45,SUP-087,26.12,12,4.2,TRUE
+PROD-000307,Exfoliator,Beauty & Personal Care,Skincare,Premium,1847.68,251,247,33,SUP-025,14.33,0,2.8,TRUE
+PROD-000308,Face Mask,Beauty & Personal Care,Skincare,OasisHome,4451.63,1904.47,1212,121,SUP-131,8.23,36,2.5,TRUE
+PROD-000309,Night Cream,Beauty & Personal Care,Skincare,SaudiMart,2696.19,2548.54,1419,82,SUP-087,21.5,0,3.5,FALSE
+PROD-000310,Lip Balm,Beauty & Personal Care,Skincare,Najdi,259.59,1363.34,813,163,SUP-150,9.09,36,4.7,TRUE
+PROD-000311,Foundation,Beauty & Personal Care,Makeup,Hijazi,2570.23,2061.74,941,42,SUP-140,3.93,36,3,TRUE
+PROD-000312,Mascara,Beauty & Personal Care,Makeup,RedSea,2500.76,2695.29,1530,31,SUP-090,48.74,0,4.1,TRUE
+PROD-000313,Lipstick,Beauty & Personal Care,Makeup,Hijazi,1174.48,13.01,1284,162,SUP-008,9.32,36,2.9,TRUE
+PROD-000314,Eyeshadow Palette,Beauty & Personal Care,Makeup,OasisHome,581.98,243.25,610,150,SUP-045,15.62,0,4.6,TRUE
+PROD-000315,Blush,Beauty & Personal Care,Makeup,OasisHome,119.23,2282.65,633,117,SUP-146,23.28,36,3.2,TRUE
+PROD-000316,Concealer,Beauty & Personal Care,Makeup,ValueMax,2072.3,906.56,1908,24,SUP-195,1.16,0,4,FALSE
+PROD-000317,Setting Spray,Beauty & Personal Care,Makeup,Premium,3604.69,1830.31,505,90,SUP-093,0.46,12,2.8,TRUE
+PROD-000318,Brow Pencil,Beauty & Personal Care,Makeup,GlobalTech,3338.1,600.74,89,74,SUP-007,22.22,24,4.6,TRUE
+PROD-000319,Highlighter,Beauty & Personal Care,Makeup,Hijazi,35.71,2110.9,217,119,SUP-176,36.19,36,4.3,FALSE
+PROD-000320,Makeup Remover,Beauty & Personal Care,Makeup,RedSea,3983.96,1619.1,1867,54,SUP-165,48.7,36,3.8,TRUE
+PROD-000321,Shampoo,Beauty & Personal Care,Hair Care,Premium,1557.97,1573.6,1706,38,SUP-132,5.37,24,3.9,TRUE
+PROD-000322,Conditioner,Beauty & Personal Care,Hair Care,OasisHome,3906.99,769.2,524,34,SUP-084,18.56,6,4.6,TRUE
+PROD-000323,Hair Oil,Beauty & Personal Care,Hair Care,Hijazi,3783.84,520.02,1619,76,SUP-200,28.58,6,4.1,FALSE
+PROD-000324,Hair Mask,Beauty & Personal Care,Hair Care,DesertBloom,142.62,2916.18,152,124,SUP-002,47.52,12,4,TRUE
+PROD-000325,Dry Shampoo,Beauty & Personal Care,Hair Care,GlobalTech,2393.18,2104.89,1769,69,SUP-018,44.72,0,2.7,TRUE
+PROD-000326,Hair Spray,Beauty & Personal Care,Hair Care,Najdi,2126.04,2472.9,1887,116,SUP-063,40.91,6,2.7,TRUE
+PROD-000327,Curling Cream,Beauty & Personal Care,Hair Care,Premium,2886.17,2528.18,1051,84,SUP-187,36.01,0,4.5,TRUE
+PROD-000328,Hair Serum,Beauty & Personal Care,Hair Care,Hijazi,211.38,2594.39,749,197,SUP-117,4.51,6,4.6,TRUE
+PROD-000329,Scalp Treatment,Beauty & Personal Care,Hair Care,Najdi,4807.65,1157.22,1857,197,SUP-072,5.13,24,3.3,FALSE
+PROD-000330,Leave-In Conditioner,Beauty & Personal Care,Hair Care,Najdi,2295.89,1010.83,1583,48,SUP-022,41.13,6,2.6,FALSE
+PROD-000331,Eau de Parfum,Beauty & Personal Care,Fragrances,SaudiMart,536.26,2068.78,36,197,SUP-087,31.34,36,3,TRUE
+PROD-000332,Eau de Toilette,Beauty & Personal Care,Fragrances,ValueMax,2122.47,1896.39,1655,67,SUP-105,9.2,12,2.8,FALSE
+PROD-000333,Body Mist,Beauty & Personal Care,Fragrances,Najdi,404.73,92.61,1458,80,SUP-049,17.43,36,4.5,TRUE
+PROD-000334,Cologne,Beauty & Personal Care,Fragrances,Premium,250.15,1551.04,134,149,SUP-111,33.65,36,4.4,TRUE
+PROD-000335,Perfume Oil,Beauty & Personal Care,Fragrances,SaudiMart,4098.34,618.83,1953,57,SUP-042,29.67,24,3.9,TRUE
+PROD-000336,Aftershave,Beauty & Personal Care,Fragrances,DesertBloom,4133.54,378.63,1412,20,SUP-017,35.63,6,4.8,TRUE
+PROD-000337,Room Spray,Beauty & Personal Care,Fragrances,SaudiMart,2832.03,847.46,97,83,SUP-126,46.62,24,3.4,TRUE
+PROD-000338,Car Freshener,Beauty & Personal Care,Fragrances,ValueMax,3312.03,55.56,1826,97,SUP-011,43.79,24,3.3,TRUE
+PROD-000339,Scented Candle,Beauty & Personal Care,Fragrances,DesertBloom,4172.95,1354.71,1000,29,SUP-173,36.99,36,2.6,TRUE
+PROD-000340,Reed Diffuser,Beauty & Personal Care,Fragrances,ValueMax,295.69,2049.13,944,174,SUP-145,0.45,24,3,TRUE
+PROD-000341,Body Wash,Beauty & Personal Care,Personal Hygiene,ValueMax,3817.06,2731.9,1057,69,SUP-197,26.13,12,3.8,TRUE
+PROD-000342,Hand Soap,Beauty & Personal Care,Personal Hygiene,Najdi,678.41,1763.56,1943,126,SUP-021,20.71,6,3.5,FALSE
+PROD-000343,Deodorant,Beauty & Personal Care,Personal Hygiene,Hijazi,4429.04,1370.61,1452,137,SUP-082,9.34,24,4.3,TRUE
+PROD-000344,Toothpaste,Beauty & Personal Care,Personal Hygiene,DesertBloom,3449.35,1871.37,732,89,SUP-182,27.06,36,3.7,TRUE
+PROD-000345,Dental Floss,Beauty & Personal Care,Personal Hygiene,RedSea,495,421.67,671,61,SUP-114,37.64,24,2.6,TRUE
+PROD-000346,Mouthwash,Beauty & Personal Care,Personal Hygiene,Premium,4026.12,1421.64,1908,106,SUP-011,16.17,6,3.2,TRUE
+PROD-000347,Wet Wipes,Beauty & Personal Care,Personal Hygiene,Premium,3717.86,2397.25,1527,157,SUP-137,33,24,3.6,TRUE
+PROD-000348,Tissues,Beauty & Personal Care,Personal Hygiene,SaudiMart,520.59,2662.34,231,167,SUP-052,26.33,0,3.6,TRUE
+PROD-000349,Feminine Wash,Beauty & Personal Care,Personal Hygiene,GlobalTech,1504.55,511.37,207,81,SUP-071,41.83,36,4.6,TRUE
+PROD-000350,Body Powder,Beauty & Personal Care,Personal Hygiene,Premium,4924.68,2243.46,1117,189,SUP-196,46.45,12,2.5,FALSE
+PROD-000351,Beard Oil,Beauty & Personal Care,Men's Grooming,DesertBloom,1570.12,1602.58,1407,70,SUP-092,42.05,6,3,TRUE
+PROD-000352,Shaving Cream,Beauty & Personal Care,Men's Grooming,Hijazi,4579.68,703.95,1027,189,SUP-147,0.67,12,3.3,TRUE
+PROD-000353,Razor Set,Beauty & Personal Care,Men's Grooming,RedSea,1992.89,1504.03,1645,83,SUP-195,9.01,0,4.9,TRUE
+PROD-000354,Aftershave Balm,Beauty & Personal Care,Men's Grooming,ValueMax,1619.57,2875.28,792,163,SUP-108,5.18,24,4.5,TRUE
+PROD-000355,Hair Pomade,Beauty & Personal Care,Men's Grooming,SaudiMart,3912.37,1420.98,1908,20,SUP-147,31.06,36,4,TRUE
+PROD-000356,Face Scrub,Beauty & Personal Care,Men's Grooming,Najdi,2237.89,211.9,39,172,SUP-148,18.67,0,4.4,TRUE
+PROD-000357,Nose Trimmer,Beauty & Personal Care,Men's Grooming,AlFaisal,2028.78,2908.86,652,143,SUP-178,19.95,0,2.6,TRUE
+PROD-000358,Body Trimmer,Beauty & Personal Care,Men's Grooming,DesertBloom,2640.47,1044.58,1552,171,SUP-180,17.24,0,2.6,TRUE
+PROD-000359,Beard Brush,Beauty & Personal Care,Men's Grooming,RedSea,1499.61,228.51,873,117,SUP-175,11.99,12,4.3,TRUE
+PROD-000360,Grooming Kit,Beauty & Personal Care,Men's Grooming,Hijazi,1874.21,471.03,1811,67,SUP-006,8.27,24,3.3,TRUE
+PROD-000361,Nail Polish,Beauty & Personal Care,Nail Care,Premium,1072.38,2103.98,656,69,SUP-118,1.56,6,4.1,FALSE
+PROD-000362,Nail Dryer,Beauty & Personal Care,Nail Care,SaudiMart,4833.62,1997.8,378,21,SUP-172,41.69,6,4.7,TRUE
+PROD-000363,Cuticle Oil,Beauty & Personal Care,Nail Care,Premium,4902.18,586.35,1589,56,SUP-059,32.44,24,4.8,FALSE
+PROD-000364,Nail File,Beauty & Personal Care,Nail Care,Hijazi,2387.13,2772.63,1915,116,SUP-100,43.28,12,3,TRUE
+PROD-000365,Nail Clipper,Beauty & Personal Care,Nail Care,RedSea,597.03,2289.09,1034,92,SUP-040,20.99,36,4,TRUE
+PROD-000366,Nail Strengthener,Beauty & Personal Care,Nail Care,Hijazi,2214.92,1432.96,1297,93,SUP-112,39.68,36,3.3,FALSE
+PROD-000367,Gel Kit,Beauty & Personal Care,Nail Care,Premium,1868.01,2466.18,750,42,SUP-199,34.81,6,3.2,FALSE
+PROD-000368,Nail Art Stickers,Beauty & Personal Care,Nail Care,ValueMax,1221.75,1162.67,1395,52,SUP-168,30.88,36,4.9,TRUE
+PROD-000369,Manicure Set,Beauty & Personal Care,Nail Care,Najdi,1739.17,557.3,1067,145,SUP-054,16.38,0,3.9,FALSE
+PROD-000370,Acetone Remover,Beauty & Personal Care,Nail Care,Premium,1975.63,784.69,1284,37,SUP-071,14.3,24,4.2,FALSE
+PROD-000371,Socket Set,Beauty & Personal Care,Tools,RedSea,2233.05,1227.5,403,169,SUP-115,32.98,0,4.9,TRUE
+PROD-000372,Screwdriver Kit,Beauty & Personal Care,Tools,OasisHome,350.56,1614.35,1746,65,SUP-128,24.37,36,4.9,TRUE
+PROD-000373,Torque Wrench,Beauty & Personal Care,Tools,Najdi,3341.82,1520.5,1068,191,SUP-098,21.96,12,4.3,TRUE
+PROD-000374,Jack Stand,Beauty & Personal Care,Tools,SaudiMart,1662.6,2111.09,1361,103,SUP-121,26.8,12,3.5,TRUE
+PROD-000375,Multimeter,Beauty & Personal Care,Tools,GlobalTech,2035.17,791.5,833,104,SUP-024,26.61,24,4.6,TRUE
+PROD-000376,Diagnostic Scanner,Beauty & Personal Care,Tools,AlFaisal,1175.09,404.86,600,38,SUP-174,42.95,36,2.8,FALSE
+PROD-000377,Impact Driver,Beauty & Personal Care,Tools,ValueMax,248.78,2248.21,1498,130,SUP-170,25.5,12,4.5,TRUE
+PROD-000378,Work Light,Beauty & Personal Care,Tools,Najdi,4193.02,2424.85,1604,46,SUP-127,0.8,12,3.9,FALSE
+PROD-000379,Tool Box,Beauty & Personal Care,Tools,Hijazi,199.41,2987.27,1668,196,SUP-086,18.54,6,3,TRUE
+PROD-000380,Breaker Bar,Beauty & Personal Care,Tools,GlobalTech,3693.76,794.78,790,115,SUP-086,7.79,36,3.4,FALSE
+PROD-000381,Electric Toothbrush,Beauty & Personal Care,Oral Care,Premium,2269.9,2383.39,1910,70,SUP-082,5.83,36,3.1,TRUE
+PROD-000382,Water Flosser,Beauty & Personal Care,Oral Care,DesertBloom,808.16,2651.84,1467,51,SUP-022,10.79,0,3.8,TRUE
+PROD-000383,Tongue Scraper,Beauty & Personal Care,Oral Care,DesertBloom,425.08,839.84,1062,33,SUP-009,36.02,36,3.1,TRUE
+PROD-000384,Teeth Whitening Kit,Beauty & Personal Care,Oral Care,AlFaisal,1809.15,2055.84,505,94,SUP-176,32.3,6,3.9,TRUE
+PROD-000385,Dental Pick,Beauty & Personal Care,Oral Care,ValueMax,355.43,389.16,1356,200,SUP-017,27.53,6,3.5,TRUE
+PROD-000386,Orthodontic Wax,Beauty & Personal Care,Oral Care,ValueMax,2594.89,1080.12,1050,184,SUP-003,26.27,24,4,FALSE
+PROD-000387,Mouth Guard,Beauty & Personal Care,Oral Care,OasisHome,703.97,2941.64,928,100,SUP-131,13.72,12,3.6,FALSE
+PROD-000388,Breath Strips,Beauty & Personal Care,Oral Care,GlobalTech,4505.04,575.16,109,180,SUP-037,13.05,12,3.5,TRUE
+PROD-000389,Gum Massager,Beauty & Personal Care,Oral Care,AlFaisal,2826.36,2932.53,1487,27,SUP-155,3.16,24,4.8,TRUE
+PROD-000390,Toothbrush Holder,Beauty & Personal Care,Oral Care,ValueMax,1495.13,1577.18,1994,33,SUP-107,7.44,24,3.2,TRUE
+PROD-000391,Body Lotion,Beauty & Personal Care,Body Care,Premium,4480.1,2766.63,1208,161,SUP-128,8.95,12,3.2,TRUE
+PROD-000392,Body Scrub,Beauty & Personal Care,Body Care,Najdi,4540.99,2909.84,168,56,SUP-187,26.54,12,4.5,TRUE
+PROD-000393,Body Butter,Beauty & Personal Care,Body Care,ValueMax,4735.04,1379.93,1199,82,SUP-176,28.4,0,4,TRUE
+PROD-000394,Hand Cream,Beauty & Personal Care,Body Care,GlobalTech,729.05,121.88,1961,38,SUP-088,32.83,6,4.1,TRUE
+PROD-000395,Foot Cream,Beauty & Personal Care,Body Care,GlobalTech,1062.91,1532.81,65,103,SUP-075,42.03,24,4.2,TRUE
+PROD-000396,Bath Bomb,Beauty & Personal Care,Body Care,OasisHome,2450.45,11.66,1100,135,SUP-128,23.86,0,4,TRUE
+PROD-000397,Bath Salt,Beauty & Personal Care,Body Care,OasisHome,891.89,2892.23,882,26,SUP-122,12.17,24,3.8,TRUE
+PROD-000398,Shower Gel,Beauty & Personal Care,Body Care,OasisHome,816.41,1407.37,525,156,SUP-080,21.17,6,2.7,TRUE
+PROD-000399,Body Oil,Beauty & Personal Care,Body Care,OasisHome,714.53,2953.27,1115,189,SUP-091,40.57,6,3.6,FALSE
+PROD-000400,Stretch Mark Cream,Beauty & Personal Care,Body Care,Hijazi,1192.06,2242.99,1122,107,SUP-138,8.78,36,3.6,TRUE
+PROD-000401,Dumbbell Set,Sports & Outdoors,Fitness Equipment,AlFaisal,3018.53,1841.4,1117,58,SUP-036,13.64,0,4.8,TRUE
+PROD-000402,Resistance Bands,Sports & Outdoors,Fitness Equipment,DesertBloom,1788.23,2941.49,1929,148,SUP-129,30.71,6,4.3,TRUE
+PROD-000403,Yoga Mat,Sports & Outdoors,Fitness Equipment,OasisHome,119.49,1634.02,547,48,SUP-033,46.16,12,3.7,FALSE
+PROD-000404,Treadmill,Sports & Outdoors,Fitness Equipment,Hijazi,4516.46,1376.15,1703,178,SUP-181,33.77,6,4.6,TRUE
+PROD-000405,Exercise Bike,Sports & Outdoors,Fitness Equipment,RedSea,4489.76,2455.81,615,140,SUP-084,32.74,24,2.7,TRUE
+PROD-000406,Kettlebell,Sports & Outdoors,Fitness Equipment,GlobalTech,1878.71,2266.16,850,154,SUP-125,10.62,0,2.8,TRUE
+PROD-000407,Pull-Up Bar,Sports & Outdoors,Fitness Equipment,Najdi,4024.57,957.34,1485,129,SUP-060,28.64,12,4.9,TRUE
+PROD-000408,Foam Roller,Sports & Outdoors,Fitness Equipment,AlFaisal,2575.04,2128.57,1653,23,SUP-147,0.83,12,3.9,TRUE
+PROD-000409,Jump Rope,Sports & Outdoors,Fitness Equipment,Premium,3564.4,412.64,389,194,SUP-048,34.78,24,3.4,TRUE
+PROD-000410,Medicine Ball,Sports & Outdoors,Fitness Equipment,Hijazi,3174.72,1820.97,796,98,SUP-048,5.61,0,2.9,FALSE
+PROD-000411,Tent,Sports & Outdoors,Camping,DesertBloom,4647.8,1552.75,1723,160,SUP-008,24.48,24,4.9,TRUE
+PROD-000412,Sleeping Bag,Sports & Outdoors,Camping,ValueMax,4822.11,133.23,1328,179,SUP-081,28.98,36,2.5,TRUE
+PROD-000413,Camping Chair,Sports & Outdoors,Camping,ValueMax,4111.02,1991.78,1673,88,SUP-057,37.28,6,3.4,TRUE
+PROD-000414,Portable Stove,Sports & Outdoors,Camping,OasisHome,2912.04,2366.32,352,38,SUP-020,43.12,36,3.7,TRUE
+PROD-000415,Lantern,Sports & Outdoors,Camping,SaudiMart,214.84,2617.07,366,52,SUP-015,18.01,6,4.4,TRUE
+PROD-000416,Cooler Box,Sports & Outdoors,Camping,Premium,2938.39,1730.98,735,118,SUP-197,2.56,36,3.8,TRUE
+PROD-000417,Hammock,Sports & Outdoors,Camping,Najdi,1924.12,2549.08,238,23,SUP-024,14.37,36,3,FALSE
+PROD-000418,Backpack,Sports & Outdoors,Camping,AlFaisal,4486.18,1844.64,204,51,SUP-125,9.65,0,4.5,FALSE
+PROD-000419,Water Filter,Sports & Outdoors,Camping,AlFaisal,305.57,1213.45,1087,181,SUP-187,25.18,24,4.3,TRUE
+PROD-000420,First Aid Kit,Sports & Outdoors,Camping,DesertBloom,2332.25,2759.74,248,128,SUP-006,12.01,12,2.6,TRUE
+PROD-000421,Mountain Bike,Sports & Outdoors,Cycling,AlFaisal,92.82,2468.37,1949,71,SUP-033,37.13,0,4.8,TRUE
+PROD-000422,Helmet,Sports & Outdoors,Cycling,DesertBloom,4223.9,831.95,180,189,SUP-110,30.46,12,4.4,TRUE
+PROD-000423,Cycling Gloves,Sports & Outdoors,Cycling,Najdi,4488.19,1149.72,851,116,SUP-120,19.89,12,3.5,TRUE
+PROD-000424,Bike Pump,Sports & Outdoors,Cycling,RedSea,841.63,1519.04,17,24,SUP-002,46.73,0,4.6,TRUE
+PROD-000425,Repair Kit,Sports & Outdoors,Cycling,OasisHome,3803.81,2890,538,68,SUP-115,25.58,24,4.3,TRUE
+PROD-000426,Cycling Jersey,Sports & Outdoors,Cycling,Hijazi,1212.65,2436.69,390,66,SUP-038,16.32,36,4.2,TRUE
+PROD-000427,Bike Lock,Sports & Outdoors,Cycling,Hijazi,2146.08,2313.65,336,184,SUP-187,7.15,6,4.3,TRUE
+PROD-000428,Water Bottle Cage,Sports & Outdoors,Cycling,AlFaisal,236.35,1032.2,242,140,SUP-127,20.3,24,3.8,FALSE
+PROD-000429,Cycling Shoes,Sports & Outdoors,Cycling,Najdi,406.36,2097.35,103,29,SUP-005,44.37,36,2.7,TRUE
+PROD-000430,Bike Computer,Sports & Outdoors,Cycling,Premium,4487.62,494.74,1498,88,SUP-128,30.46,6,4.1,TRUE
+PROD-000431,Running Shoes,Sports & Outdoors,Running,RedSea,2548.39,1737.07,584,34,SUP-033,19.8,36,4.1,FALSE
+PROD-000432,Running Belt,Sports & Outdoors,Running,OasisHome,444.68,965.53,1432,108,SUP-163,17.61,36,2.6,TRUE
+PROD-000433,Hydration Pack,Sports & Outdoors,Running,Premium,2412.38,1498.84,693,137,SUP-085,5.02,6,2.8,TRUE
+PROD-000434,Reflective Vest,Sports & Outdoors,Running,Premium,692.03,584.2,111,190,SUP-190,26.92,12,3.1,TRUE
+PROD-000435,Running Socks,Sports & Outdoors,Running,SaudiMart,540.43,600.54,1109,42,SUP-063,25.38,12,4.6,TRUE
+PROD-000436,GPS Watch,Sports & Outdoors,Running,DesertBloom,3086.45,489.23,825,91,SUP-083,22.73,0,3.7,FALSE
+PROD-000437,Compression Sleeves,Sports & Outdoors,Running,OasisHome,1154.27,2612.34,1353,29,SUP-018,2.46,12,3,TRUE
+PROD-000438,Headlamp,Sports & Outdoors,Running,AlFaisal,1483.17,2175.04,1157,144,SUP-022,9.27,36,3.1,TRUE
+PROD-000439,Running Cap,Sports & Outdoors,Running,Premium,791.63,1169.1,1325,185,SUP-124,23.45,24,4.6,TRUE
+PROD-000440,Anti-Chafe Balm,Sports & Outdoors,Running,Najdi,3480.51,907.63,1035,131,SUP-158,41.06,0,4,TRUE
+PROD-000441,Swim Goggles,Sports & Outdoors,Swimming,Najdi,2023.6,2523.63,173,162,SUP-048,27.58,6,4.7,TRUE
+PROD-000442,Swim Cap,Sports & Outdoors,Swimming,Hijazi,1576.36,1296.87,449,112,SUP-144,40.46,0,4,TRUE
+PROD-000443,Swimsuit,Sports & Outdoors,Swimming,OasisHome,4943.35,2075.68,405,48,SUP-068,28.95,6,3.8,FALSE
+PROD-000444,Kickboard,Sports & Outdoors,Swimming,ValueMax,485.81,2060.64,245,188,SUP-122,16.06,24,3.9,TRUE
+PROD-000445,Pull Buoy,Sports & Outdoors,Swimming,RedSea,4508.37,1981.47,1635,171,SUP-098,46.82,6,2.9,FALSE
+PROD-000446,Fins,Sports & Outdoors,Swimming,ValueMax,4455.95,1723.57,313,106,SUP-199,17.22,6,2.6,TRUE
+PROD-000447,Swim Bag,Sports & Outdoors,Swimming,AlFaisal,2680.49,1994.29,1449,161,SUP-199,23.05,24,4.1,TRUE
+PROD-000448,Rash Guard,Sports & Outdoors,Swimming,RedSea,3726.28,1854.38,1472,30,SUP-130,25.93,6,3.2,TRUE
+PROD-000449,Wetsuit,Sports & Outdoors,Swimming,GlobalTech,4469.87,2502.7,1849,67,SUP-113,36.27,6,4.8,FALSE
+PROD-000450,Swim Earplugs,Sports & Outdoors,Swimming,Premium,3920.25,871.36,1017,169,SUP-176,31.35,6,2.8,TRUE
+PROD-000451,Football,Sports & Outdoors,Team Sports,Premium,458.34,1989.15,176,145,SUP-116,33.31,0,2.5,TRUE
+PROD-000452,Basketball,Sports & Outdoors,Team Sports,SaudiMart,884.92,2893.09,1006,76,SUP-112,3.4,12,3.3,TRUE
+PROD-000453,Volleyball,Sports & Outdoors,Team Sports,GlobalTech,2376.52,1843.12,1028,89,SUP-164,26.47,0,4.5,TRUE
+PROD-000454,Cricket Bat,Sports & Outdoors,Team Sports,SaudiMart,4384.23,277.96,489,35,SUP-176,31.95,0,3.2,TRUE
+PROD-000455,Hockey Stick,Sports & Outdoors,Team Sports,RedSea,4579.81,246.43,1488,83,SUP-198,32.16,6,2.8,TRUE
+PROD-000456,Rugby Ball,Sports & Outdoors,Team Sports,ValueMax,762.73,2305.44,1923,57,SUP-069,14.5,24,4.3,TRUE
+PROD-000457,Baseball Glove,Sports & Outdoors,Team Sports,AlFaisal,1896.43,1556.98,1883,99,SUP-110,28.09,0,3.4,TRUE
+PROD-000458,Badminton Racket,Sports & Outdoors,Team Sports,OasisHome,4561.84,2832.48,1271,133,SUP-080,24.42,0,4.8,TRUE
+PROD-000459,Table Tennis Paddle,Sports & Outdoors,Team Sports,RedSea,2583.99,2228.46,1408,50,SUP-155,9.34,36,4.4,TRUE
+PROD-000460,Netball,Sports & Outdoors,Team Sports,OasisHome,4716.42,2664.9,1726,116,SUP-089,21.16,36,3.7,FALSE
+PROD-000461,Yoga Block,Sports & Outdoors,Yoga,Premium,4436.25,413.76,825,125,SUP-175,30.89,0,3.5,TRUE
+PROD-000462,Yoga Strap,Sports & Outdoors,Yoga,Hijazi,4348.42,2024.78,1382,148,SUP-163,21.27,24,3.4,TRUE
+PROD-000463,Yoga Wheel,Sports & Outdoors,Yoga,Premium,3670.68,1118.5,1222,135,SUP-114,33.21,12,4,FALSE
+PROD-000464,Bolster,Sports & Outdoors,Yoga,Hijazi,2176.92,648.11,1362,180,SUP-130,0.88,24,3.3,FALSE
+PROD-000465,Meditation Cushion,Sports & Outdoors,Yoga,Premium,678.54,1969.72,508,141,SUP-061,41.91,6,3.9,TRUE
+PROD-000466,Yoga Towel,Sports & Outdoors,Yoga,Hijazi,3865.06,2076.11,1897,190,SUP-185,8.87,24,3.9,FALSE
+PROD-000467,Aromatherapy Diffuser,Sports & Outdoors,Yoga,AlFaisal,2252.26,1344.7,1320,159,SUP-095,13.15,24,2.5,TRUE
+PROD-000468,Incense,Sports & Outdoors,Yoga,DesertBloom,420.57,1384.05,1797,73,SUP-035,3.43,6,2.5,TRUE
+PROD-000469,Chime Ball,Sports & Outdoors,Yoga,Premium,3993.83,2043.87,1195,62,SUP-161,25.45,0,5,TRUE
+PROD-000470,Yoga Pants,Sports & Outdoors,Yoga,ValueMax,3287.92,1044.78,1591,147,SUP-102,30.96,6,2.6,TRUE
+PROD-000471,Hiking Boots,Sports & Outdoors,Hiking,Hijazi,4073.81,103.39,1225,169,SUP-186,3.51,36,4.5,TRUE
+PROD-000472,Trekking Poles,Sports & Outdoors,Hiking,Najdi,650.08,2057.49,1329,41,SUP-089,37.07,6,4.4,TRUE
+PROD-000473,Hydration Bladder,Sports & Outdoors,Hiking,ValueMax,407.5,2481.29,635,136,SUP-001,31.94,12,3.9,FALSE
+PROD-000474,Compass,Sports & Outdoors,Hiking,Hijazi,633.37,2112.16,1545,60,SUP-076,30.52,12,4.6,FALSE
+PROD-000475,Map Case,Sports & Outdoors,Hiking,OasisHome,1291.66,1272.1,1700,32,SUP-158,12.61,24,4.8,FALSE
+PROD-000476,Head Net,Sports & Outdoors,Hiking,Hijazi,904.82,40.42,1242,117,SUP-042,28.03,24,2.6,TRUE
+PROD-000477,Gaiters,Sports & Outdoors,Hiking,DesertBloom,4238.15,1121.58,1747,121,SUP-109,22.5,0,4.2,TRUE
+PROD-000478,Bivy Sack,Sports & Outdoors,Hiking,Premium,2333.48,1398.58,14,88,SUP-086,35.82,36,4.5,TRUE
+PROD-000479,Multi-Tool,Sports & Outdoors,Hiking,SaudiMart,2389.49,242.9,1056,175,SUP-141,46.69,0,2.9,TRUE
+PROD-000480,Emergency Whistle,Sports & Outdoors,Hiking,OasisHome,536.6,1669.32,1326,121,SUP-009,15.73,6,4.8,FALSE
+PROD-000481,Fishing Rod,Sports & Outdoors,Fishing,GlobalTech,4342.2,1904.9,970,80,SUP-076,4.59,24,4.7,TRUE
+PROD-000482,Reel,Sports & Outdoors,Fishing,GlobalTech,1404.95,2507.56,707,113,SUP-077,16.45,6,4.9,TRUE
+PROD-000483,Tackle Box,Sports & Outdoors,Fishing,AlFaisal,1830.42,232.38,1625,97,SUP-191,31.02,12,4.1,FALSE
+PROD-000484,Fishing Line,Sports & Outdoors,Fishing,OasisHome,132.18,595.62,409,79,SUP-132,20.66,12,3.8,TRUE
+PROD-000485,Lures,Sports & Outdoors,Fishing,SaudiMart,286.71,2812.23,536,73,SUP-084,9.05,12,4.6,TRUE
+PROD-000486,Bait,Sports & Outdoors,Fishing,GlobalTech,4913.35,270.19,749,79,SUP-102,13.06,0,4.5,FALSE
+PROD-000487,Net,Sports & Outdoors,Fishing,ValueMax,2143.61,2425.84,1596,193,SUP-123,24.32,0,4.6,TRUE
+PROD-000488,Waders,Sports & Outdoors,Fishing,RedSea,336.56,2391.89,306,90,SUP-071,27.42,24,3.2,TRUE
+PROD-000489,Fishing Vest,Sports & Outdoors,Fishing,AlFaisal,1092.12,2752.79,1168,24,SUP-172,13.35,12,4.3,TRUE
+PROD-000490,Fish Finder,Sports & Outdoors,Fishing,Premium,1397.28,2842.98,775,73,SUP-154,7.76,12,4.1,FALSE
+PROD-000491,Kayak,Sports & Outdoors,Water Sports,AlFaisal,505.16,2713.47,296,136,SUP-022,2.55,12,4,TRUE
+PROD-000492,Paddleboard,Sports & Outdoors,Water Sports,DesertBloom,2154.87,2861.12,1851,91,SUP-193,11.85,36,3.2,FALSE
+PROD-000493,Life Jacket,Sports & Outdoors,Water Sports,SaudiMart,3668.43,1686.26,1179,60,SUP-166,0.96,0,4.8,TRUE
+PROD-000494,Snorkel Set,Sports & Outdoors,Water Sports,Najdi,4296.24,723.49,1384,58,SUP-169,12.27,24,2.8,TRUE
+PROD-000495,Wakeboard,Sports & Outdoors,Water Sports,DesertBloom,4357.86,1290.06,1002,50,SUP-029,49.12,36,2.9,TRUE
+PROD-000496,Water Skis,Sports & Outdoors,Water Sports,ValueMax,3720.16,426.87,1575,74,SUP-001,44.2,24,2.9,TRUE
+PROD-000497,Inflatable Tube,Sports & Outdoors,Water Sports,Premium,576.68,641.85,1891,187,SUP-160,8.58,12,2.8,FALSE
+PROD-000498,Diving Mask,Sports & Outdoors,Water Sports,ValueMax,460.07,1354.83,250,194,SUP-184,28.7,0,3.7,TRUE
+PROD-000499,Wetsuit,Sports & Outdoors,Water Sports,GlobalTech,2369.66,1841.91,1875,58,SUP-061,11.5,12,3.9,TRUE
+PROD-000500,Beach Tent,Sports & Outdoors,Water Sports,OasisHome,1816.46,254.3,764,83,SUP-091,21.65,36,4.6,TRUE
+PROD-000501,The Great Novel,Books & Stationery,Fiction,RedSea,4908.33,2096.58,1297,25,SUP-198,13.71,0,3.9,TRUE
+PROD-000502,Mystery Thriller,Books & Stationery,Fiction,RedSea,3969.97,1998.06,184,129,SUP-141,8.37,36,3.8,TRUE
+PROD-000503,Romance Novel,Books & Stationery,Fiction,Premium,3257.88,876.35,790,160,SUP-042,40.66,0,3.5,FALSE
+PROD-000504,Sci-Fi Epic,Books & Stationery,Fiction,DesertBloom,2995.49,19.69,1071,130,SUP-165,14.31,24,4.7,TRUE
+PROD-000505,Fantasy Saga,Books & Stationery,Fiction,DesertBloom,1100.25,424.05,282,84,SUP-041,42.82,6,3.6,TRUE
+PROD-000506,Horror Story,Books & Stationery,Fiction,Najdi,2569.54,243.16,697,84,SUP-027,14.75,6,4.8,FALSE
+PROD-000507,Historical Fiction,Books & Stationery,Fiction,Premium,1411.37,1046.74,15,91,SUP-067,23.33,0,3.6,TRUE
+PROD-000508,Crime Novel,Books & Stationery,Fiction,OasisHome,1376.35,241.26,704,137,SUP-151,15.05,0,3.5,TRUE
+PROD-000509,Adventure Tale,Books & Stationery,Fiction,DesertBloom,3781.97,657.05,1185,83,SUP-162,6.5,12,4.6,TRUE
+PROD-000510,Literary Fiction,Books & Stationery,Fiction,RedSea,3638.44,363.15,1946,170,SUP-095,16.03,0,4.4,FALSE
+PROD-000511,Biography,Books & Stationery,Non-Fiction,Hijazi,1600.9,2428.84,1011,54,SUP-184,27.23,0,4.4,FALSE
+PROD-000512,Self-Help Guide,Books & Stationery,Non-Fiction,SaudiMart,4559.4,1275.16,709,20,SUP-027,35.33,6,3,TRUE
+PROD-000513,Business Strategy,Books & Stationery,Non-Fiction,OasisHome,3302,1350.2,255,86,SUP-157,43.31,36,4.8,TRUE
+PROD-000514,Travel Memoir,Books & Stationery,Non-Fiction,RedSea,2597.2,1756.72,264,129,SUP-030,17.49,36,4.7,TRUE
+PROD-000515,Science Explained,Books & Stationery,Non-Fiction,SaudiMart,1623.77,1279.53,273,33,SUP-144,42.78,36,2.9,FALSE
+PROD-000516,Philosophy,Books & Stationery,Non-Fiction,Premium,4270.67,1785.16,1053,66,SUP-044,49.91,36,4.6,TRUE
+PROD-000517,True Crime,Books & Stationery,Non-Fiction,DesertBloom,3136.18,19.7,1440,171,SUP-071,38.39,6,4.1,TRUE
+PROD-000518,Cookbook,Books & Stationery,Non-Fiction,Hijazi,2831.04,641.05,1494,60,SUP-126,43.28,36,2.8,TRUE
+PROD-000519,Art History,Books & Stationery,Non-Fiction,DesertBloom,1586.01,76.07,1628,192,SUP-043,8.55,36,3.9,TRUE
+PROD-000520,Political Analysis,Books & Stationery,Non-Fiction,AlFaisal,4190.06,1719.95,1617,166,SUP-132,45.02,6,3.3,TRUE
+PROD-000521,Math Textbook,Books & Stationery,Educational,OasisHome,856.66,2371.3,475,65,SUP-044,15.05,36,2.5,FALSE
+PROD-000522,Science Workbook,Books & Stationery,Educational,Hijazi,3214.56,45.55,985,156,SUP-027,24.59,12,2.6,FALSE
+PROD-000523,Language Learning,Books & Stationery,Educational,Premium,1648.9,886.71,27,149,SUP-131,44.55,36,4.5,TRUE
+PROD-000524,Coding Manual,Books & Stationery,Educational,ValueMax,820.83,2026.56,1108,103,SUP-030,47.31,0,4.5,TRUE
+PROD-000525,History Atlas,Books & Stationery,Educational,Premium,2091.99,1154.5,93,25,SUP-147,29.21,24,4.9,TRUE
+PROD-000526,Geography Guide,Books & Stationery,Educational,ValueMax,1414.09,335.9,1595,133,SUP-029,18.73,36,4.7,TRUE
+PROD-000527,Economics Primer,Books & Stationery,Educational,Najdi,1489.05,2763.87,1475,145,SUP-064,23.61,12,4,TRUE
+PROD-000528,Psychology,Books & Stationery,Educational,GlobalTech,742.77,1809.78,872,149,SUP-072,26.1,6,3.2,TRUE
+PROD-000529,Law Handbook,Books & Stationery,Educational,DesertBloom,4929.3,2794.31,1408,133,SUP-139,46.06,24,4.1,TRUE
+PROD-000530,Medical Reference,Books & Stationery,Educational,AlFaisal,1571.52,2819.12,1345,67,SUP-188,41.11,12,4.2,TRUE
+PROD-000531,Picture Book,Books & Stationery,Children's Books,Hijazi,422.38,1747.92,899,191,SUP-168,24.88,0,3.7,TRUE
+PROD-000532,Bedtime Story,Books & Stationery,Children's Books,ValueMax,4064.12,2227.2,1443,32,SUP-060,18.39,6,3.5,TRUE
+PROD-000533,Early Reader,Books & Stationery,Children's Books,AlFaisal,3126,350.3,1911,140,SUP-046,10.18,0,4.9,TRUE
+PROD-000534,Activity Book,Books & Stationery,Children's Books,AlFaisal,1612.86,2887.17,1906,159,SUP-166,49.31,24,3.1,TRUE
+PROD-000535,Coloring Book,Books & Stationery,Children's Books,RedSea,3338.54,1629.58,115,116,SUP-029,3.31,12,2.9,TRUE
+PROD-000536,Fairy Tale,Books & Stationery,Children's Books,GlobalTech,4222.74,2092.92,1556,148,SUP-159,40.31,36,3.1,TRUE
+PROD-000537,Adventure Comic,Books & Stationery,Children's Books,ValueMax,752.51,2132.22,666,191,SUP-149,16.86,24,3,FALSE
+PROD-000538,Science for Kids,Books & Stationery,Children's Books,Najdi,2123.89,1649.76,570,77,SUP-023,10.98,24,4.8,TRUE
+PROD-000539,Animal Encyclopedia,Books & Stationery,Children's Books,SaudiMart,3504.23,1703.93,118,49,SUP-028,0.34,24,3.1,TRUE
+PROD-000540,Rhyme Book,Books & Stationery,Children's Books,DesertBloom,1379.41,819.96,325,118,SUP-089,38.68,36,4.6,TRUE
+PROD-000541,Ballpoint Pen Set,Books & Stationery,Office Supplies,GlobalTech,3335.14,1826.7,1344,148,SUP-031,32.12,24,3.8,TRUE
+PROD-000542,Notebook,Books & Stationery,Office Supplies,AlFaisal,339.32,1354.8,230,108,SUP-073,43.64,24,3.9,TRUE
+PROD-000543,Stapler,Books & Stationery,Office Supplies,OasisHome,1359.55,1810.53,525,156,SUP-153,10.33,12,4,TRUE
+PROD-000544,Tape Dispenser,Books & Stationery,Office Supplies,Premium,247.72,2636.27,68,21,SUP-107,29.37,24,4,TRUE
+PROD-000545,File Folder,Books & Stationery,Office Supplies,ValueMax,2685.88,654.11,1913,68,SUP-022,19.94,36,4.9,TRUE
+PROD-000546,Binder,Books & Stationery,Office Supplies,Najdi,3999.17,869.88,1561,199,SUP-061,35.41,24,3.4,TRUE
+PROD-000547,Highlighter Set,Books & Stationery,Office Supplies,ValueMax,4096.08,1704.11,1342,130,SUP-072,1.13,0,2.7,FALSE
+PROD-000548,Sticky Notes,Books & Stationery,Office Supplies,GlobalTech,301.07,320.84,1277,116,SUP-095,4.99,12,4,TRUE
+PROD-000549,Desk Organizer,Books & Stationery,Office Supplies,Premium,1921.71,651.7,1021,94,SUP-149,13.65,12,4.3,TRUE
+PROD-000550,Calculator,Books & Stationery,Office Supplies,ValueMax,953.23,1579.49,1777,131,SUP-099,36.67,12,3.1,TRUE
+PROD-000551,Acrylic Paint Set,Books & Stationery,Art Supplies,RedSea,4594.54,2866.73,217,57,SUP-197,49.53,36,3.9,TRUE
+PROD-000552,Sketchbook,Books & Stationery,Art Supplies,SaudiMart,2352.77,2768.09,1290,162,SUP-097,49.66,6,2.9,TRUE
+PROD-000553,Colored Pencils,Books & Stationery,Art Supplies,ValueMax,2329.79,1887.51,446,25,SUP-126,31.41,36,2.8,FALSE
+PROD-000554,Watercolor Palette,Books & Stationery,Art Supplies,DesertBloom,1259.16,2157.33,669,105,SUP-136,27.26,0,4.1,TRUE
+PROD-000555,Canvas,Books & Stationery,Art Supplies,DesertBloom,3692.56,1394.38,201,112,SUP-025,27.32,24,5,TRUE
+PROD-000556,Brush Set,Books & Stationery,Art Supplies,RedSea,647.17,1171.99,890,199,SUP-005,3.15,6,4.5,TRUE
+PROD-000557,Charcoal,Books & Stationery,Art Supplies,ValueMax,2227.16,1238.59,1017,43,SUP-048,17,12,4.7,TRUE
+PROD-000558,Pastels,Books & Stationery,Art Supplies,Hijazi,2847.37,2934.84,722,42,SUP-153,19.61,12,3.9,TRUE
+PROD-000559,Marker Set,Books & Stationery,Art Supplies,GlobalTech,4932.01,1980.49,541,27,SUP-178,43.93,0,3.3,TRUE
+PROD-000560,Easel,Books & Stationery,Art Supplies,RedSea,4282.2,1272.95,1329,115,SUP-038,41.43,24,3.4,FALSE
+PROD-000561,Fashion Weekly,Books & Stationery,Magazines,OasisHome,3973.87,2928.66,1625,192,SUP-013,22.93,24,3.5,FALSE
+PROD-000562,Tech Monthly,Books & Stationery,Magazines,Hijazi,1792.77,462.02,525,184,SUP-077,9.17,6,2.8,TRUE
+PROD-000563,Sports Digest,Books & Stationery,Magazines,Hijazi,2952.28,1485.54,828,108,SUP-143,3.38,6,3.2,TRUE
+PROD-000564,Travel Quarterly,Books & Stationery,Magazines,Hijazi,2196.75,707.48,458,103,SUP-011,33.81,36,3.6,TRUE
+PROD-000565,Business Review,Books & Stationery,Magazines,GlobalTech,2850.57,2975.45,941,50,SUP-196,38.84,24,2.9,TRUE
+PROD-000566,Health Magazine,Books & Stationery,Magazines,AlFaisal,913.35,1263.2,173,138,SUP-162,47.91,6,4.6,TRUE
+PROD-000567,Cooking Journal,Books & Stationery,Magazines,AlFaisal,2532.1,2514.91,417,52,SUP-112,5.02,12,4.1,TRUE
+PROD-000568,Photography,Books & Stationery,Magazines,DesertBloom,4128,2761.91,1806,21,SUP-022,33.61,36,2.8,TRUE
+PROD-000569,Home Decor,Books & Stationery,Magazines,DesertBloom,3223.56,2722.05,105,62,SUP-084,43.13,6,2.6,FALSE
+PROD-000570,Automotive,Books & Stationery,Magazines,Hijazi,3675.07,59.08,928,44,SUP-140,46.21,12,3.1,TRUE
+PROD-000571,Digital Novel,Books & Stationery,E-Books,GlobalTech,1710.51,890.69,1038,76,SUP-083,42.52,6,4.9,FALSE
+PROD-000572,PDF Textbook,Books & Stationery,E-Books,AlFaisal,978.73,326.64,1042,86,SUP-139,46.69,6,3.1,TRUE
+PROD-000573,Audio Book,Books & Stationery,E-Books,ValueMax,766.09,1039.11,1680,200,SUP-151,20.81,12,4.9,FALSE
+PROD-000574,Interactive Guide,Books & Stationery,E-Books,GlobalTech,1900.36,588.77,1252,73,SUP-184,2.45,6,2.9,FALSE
+PROD-000575,Magazine Subscription,Books & Stationery,E-Books,Premium,3568.89,1544.38,955,20,SUP-025,25.64,0,4.6,TRUE
+PROD-000576,Comic Digital,Books & Stationery,E-Books,AlFaisal,2454.45,2906.93,1686,192,SUP-023,44.9,12,2.8,TRUE
+PROD-000577,Research Paper,Books & Stationery,E-Books,Premium,2737.52,2888.28,1418,69,SUP-075,0.86,0,3.7,TRUE
+PROD-000578,Recipe Collection,Books & Stationery,E-Books,ValueMax,4509.17,804.33,1428,107,SUP-162,18.35,24,4.7,FALSE
+PROD-000579,Travel Guide,Books & Stationery,E-Books,ValueMax,3779.71,1135.44,704,71,SUP-106,22.62,0,2.8,TRUE
+PROD-000580,Manual,Books & Stationery,E-Books,DesertBloom,230.37,920.77,751,196,SUP-123,34.63,0,4.1,FALSE
+PROD-000581,Quran Translation,Books & Stationery,Religious,AlFaisal,1912.43,2938.64,1659,178,SUP-185,47.22,6,5,TRUE
+PROD-000582,Hadith Collection,Books & Stationery,Religious,DesertBloom,936.8,2934.27,264,79,SUP-116,4.67,24,3.3,TRUE
+PROD-000583,Tafsir,Books & Stationery,Religious,OasisHome,3683.77,2558.76,1420,111,SUP-022,40.57,36,4.1,TRUE
+PROD-000584,Islamic History,Books & Stationery,Religious,GlobalTech,344.32,955.66,1963,177,SUP-042,22.15,0,4.6,TRUE
+PROD-000585,Prayer Book,Books & Stationery,Religious,SaudiMart,2117.04,1417.71,1291,85,SUP-033,2.47,0,4.3,TRUE
+PROD-000586,Biography of Prophet,Books & Stationery,Religious,Hijazi,4602.07,2506.17,1767,82,SUP-020,2.1,0,4,TRUE
+PROD-000587,Fiqh Guide,Books & Stationery,Religious,SaudiMart,4779.42,2299.81,803,29,SUP-013,41.05,6,4.1,TRUE
+PROD-000588,Seerah,Books & Stationery,Religious,RedSea,2933.23,2485.53,1840,126,SUP-137,40.56,12,2.7,TRUE
+PROD-000589,Dua Collection,Books & Stationery,Religious,Premium,4211.69,1080.09,967,195,SUP-163,9.16,24,4.4,TRUE
+PROD-000590,Islamic Art Book,Books & Stationery,Religious,ValueMax,4530.61,2215.56,16,62,SUP-088,39.48,6,3.3,TRUE
+PROD-000591,Productivity Guide,Books & Stationery,Self-Help,Hijazi,3868.17,1232.37,1673,131,SUP-092,23.19,24,3.3,TRUE
+PROD-000592,Mindfulness Book,Books & Stationery,Self-Help,ValueMax,1772.25,1791.6,336,161,SUP-146,5.09,24,3.1,TRUE
+PROD-000593,Finance Mastery,Books & Stationery,Self-Help,DesertBloom,4369.62,2315.45,701,195,SUP-061,13.03,12,4,TRUE
+PROD-000594,Leadership,Books & Stationery,Self-Help,GlobalTech,2039.96,2183.39,543,193,SUP-120,27.25,0,3.9,TRUE
+PROD-000595,Communication Skills,Books & Stationery,Self-Help,DesertBloom,1079.21,2143.3,1390,89,SUP-163,28.69,12,3.2,TRUE
+PROD-000596,Time Management,Books & Stationery,Self-Help,Premium,1529.28,1070.47,1361,121,SUP-200,31,12,3.3,TRUE
+PROD-000597,Goal Setting,Books & Stationery,Self-Help,GlobalTech,3502.74,537.95,1288,114,SUP-119,7.11,36,2.7,TRUE
+PROD-000598,Habit Building,Books & Stationery,Self-Help,Najdi,3593.73,1443.11,449,71,SUP-149,4.36,6,4.8,TRUE
+PROD-000599,Emotional Intelligence,Books & Stationery,Self-Help,Hijazi,2025.05,850.62,812,49,SUP-197,6.7,36,3.4,TRUE
+PROD-000600,Confidence Boost,Books & Stationery,Self-Help,AlFaisal,3702.85,2853.82,1885,57,SUP-086,36.25,0,4.6,FALSE
+PROD-000601,Superhero Figure,Toys & Games,Action Figures,DesertBloom,4196.74,39.4,846,139,SUP-113,31.96,6,2.7,FALSE
+PROD-000602,Anime Character,Toys & Games,Action Figures,Premium,146.56,2559.99,1253,74,SUP-066,20.08,24,2.9,FALSE
+PROD-000603,Movie Villain,Toys & Games,Action Figures,AlFaisal,4843.24,2843.68,1153,49,SUP-154,4.45,36,4.9,TRUE
+PROD-000604,Sci-Fi Robot,Toys & Games,Action Figures,Premium,4675.22,1696.78,171,150,SUP-185,10.62,12,2.5,TRUE
+PROD-000605,Historical Warrior,Toys & Games,Action Figures,ValueMax,2509.31,1600.4,1923,102,SUP-087,0.64,0,3.5,TRUE
+PROD-000606,Sports Star,Toys & Games,Action Figures,AlFaisal,483.21,267.24,848,54,SUP-118,48.46,12,3.5,FALSE
+PROD-000607,Cartoon Character,Toys & Games,Action Figures,DesertBloom,370.92,2804.75,1446,120,SUP-042,33.78,6,3.3,TRUE
+PROD-000608,Video Game Hero,Toys & Games,Action Figures,RedSea,1356.61,1092.9,1778,109,SUP-022,35.5,12,4,FALSE
+PROD-000609,Dinosaur Model,Toys & Games,Action Figures,AlFaisal,1029.96,112.64,606,86,SUP-099,37.5,6,3.9,TRUE
+PROD-000610,Space Explorer,Toys & Games,Action Figures,AlFaisal,1430.33,2400.74,182,52,SUP-168,7.2,0,4.8,TRUE
+PROD-000611,Strategy Game,Toys & Games,Board Games,Premium,514.16,244.08,1990,33,SUP-092,43.81,6,2.6,TRUE
+PROD-000612,Family Game Night,Toys & Games,Board Games,SaudiMart,4986.04,2106.6,1338,67,SUP-039,35.64,6,4.3,TRUE
+PROD-000613,Trivia Challenge,Toys & Games,Board Games,GlobalTech,4049.92,1284.76,1875,171,SUP-113,2.38,24,4.7,TRUE
+PROD-000614,Cooperative Game,Toys & Games,Board Games,Premium,807.14,500.59,1448,124,SUP-115,14.55,0,4.2,FALSE
+PROD-000615,Deck Building,Toys & Games,Board Games,Hijazi,1118.59,2074.88,601,168,SUP-169,20.53,12,4.2,TRUE
+PROD-000616,Word Game,Toys & Games,Board Games,ValueMax,105.84,352.85,185,75,SUP-094,16.69,6,2.6,TRUE
+PROD-000617,Puzzle Game,Toys & Games,Board Games,AlFaisal,1120.41,2056.24,406,130,SUP-187,13,24,4,FALSE
+PROD-000618,Racing Game,Toys & Games,Board Games,SaudiMart,2139.56,1906.97,1875,131,SUP-077,14.59,6,4.1,TRUE
+PROD-000619,Mystery Game,Toys & Games,Board Games,Premium,889.8,365.61,1268,86,SUP-085,47.63,24,3,TRUE
+PROD-000620,Classic Chess,Toys & Games,Board Games,AlFaisal,1611.53,687.48,206,121,SUP-189,36.89,36,4.6,TRUE
+PROD-000621,1000-Piece Landscape,Toys & Games,Puzzles,AlFaisal,18.98,1167.43,1893,172,SUP-073,39.94,0,3.4,TRUE
+PROD-000622,3D Puzzle,Toys & Games,Puzzles,Najdi,283.1,483.66,1147,148,SUP-073,39.11,36,3,TRUE
+PROD-000623,Brain Teaser,Toys & Games,Puzzles,Premium,3176.82,1680.67,1456,124,SUP-100,25.32,36,2.5,TRUE
+PROD-000624,Jigsaw Art,Toys & Games,Puzzles,Najdi,3167.66,1026.82,1574,66,SUP-136,17.29,12,4.3,TRUE
+PROD-000625,Wooden Puzzle,Toys & Games,Puzzles,AlFaisal,885.79,640.24,870,46,SUP-066,43.42,0,3.6,TRUE
+PROD-000626,Metal Puzzle,Toys & Games,Puzzles,Hijazi,104.04,1916.85,1017,86,SUP-181,7.05,0,2.6,TRUE
+PROD-000627,Escape Room Box,Toys & Games,Puzzles,SaudiMart,928.28,1864.65,1646,21,SUP-114,28.55,6,4,FALSE
+PROD-000628,Crossword Book,Toys & Games,Puzzles,Hijazi,3674.92,1541.7,170,32,SUP-068,25.44,36,2.8,TRUE
+PROD-000629,Sudoku Collection,Toys & Games,Puzzles,ValueMax,138.27,1081.47,543,63,SUP-076,27.85,24,3.8,TRUE
+PROD-000630,Rubik's Cube,Toys & Games,Puzzles,RedSea,537.18,927.44,1982,46,SUP-067,0.42,36,4.6,FALSE
+PROD-000631,Fashion Doll,Toys & Games,Dolls,Hijazi,4076.8,2280.12,1734,39,SUP-083,34.94,24,4,TRUE
+PROD-000632,Baby Doll,Toys & Games,Dolls,DesertBloom,2963.8,2805.56,408,136,SUP-162,38.42,0,4.1,FALSE
+PROD-000633,Collectible Doll,Toys & Games,Dolls,Premium,2624.64,2025.5,631,198,SUP-123,42.35,6,3.1,TRUE
+PROD-000634,Dollhouse,Toys & Games,Dolls,Hijazi,3875.74,1792.34,624,46,SUP-081,32.76,36,3,TRUE
+PROD-000635,Doll Accessories,Toys & Games,Dolls,DesertBloom,2344.33,2834.23,778,145,SUP-117,13.98,24,3.3,FALSE
+PROD-000636,Plush Doll,Toys & Games,Dolls,RedSea,4589.41,2207.08,1563,132,SUP-143,17.24,24,3,FALSE
+PROD-000637,Interactive Doll,Toys & Games,Dolls,GlobalTech,1898.89,715.77,139,187,SUP-181,5.77,24,4.5,TRUE
+PROD-000638,Heritage Doll,Toys & Games,Dolls,ValueMax,4057.15,2971.79,283,99,SUP-019,45.29,0,3.6,FALSE
+PROD-000639,Miniature Doll,Toys & Games,Dolls,RedSea,2461.09,498.5,833,183,SUP-064,13.72,6,2.9,TRUE
+PROD-000640,Doll Wardrobe,Toys & Games,Dolls,SaudiMart,625.96,253,339,188,SUP-143,26.22,0,4.5,TRUE
+PROD-000641,STEM Kit,Toys & Games,Educational Toys,RedSea,396.67,261.84,1518,53,SUP-012,40.35,24,4.5,FALSE
+PROD-000642,Robot Building Set,Toys & Games,Educational Toys,RedSea,3505.84,286.99,641,195,SUP-122,28.48,0,5,TRUE
+PROD-000643,Microscope,Toys & Games,Educational Toys,DesertBloom,956.26,1505.94,381,37,SUP-045,12.95,36,2.9,FALSE
+PROD-000644,Telescope,Toys & Games,Educational Toys,SaudiMart,2551.99,83.03,1020,31,SUP-150,9.1,36,4.1,TRUE
+PROD-000645,Coding Toy,Toys & Games,Educational Toys,Hijazi,1357.09,585.68,1421,93,SUP-042,16.57,6,4.2,FALSE
+PROD-000646,Science Experiment,Toys & Games,Educational Toys,SaudiMart,4737.43,1163.42,1798,47,SUP-162,15.99,12,3.5,FALSE
+PROD-000647,Math Game,Toys & Games,Educational Toys,ValueMax,3134.88,2766.16,3,143,SUP-199,34.98,36,3.6,TRUE
+PROD-000648,Geography Puzzle,Toys & Games,Educational Toys,OasisHome,3508.44,2162.75,1071,185,SUP-113,48.82,36,4.7,TRUE
+PROD-000649,Musical Instrument,Toys & Games,Educational Toys,OasisHome,4141.44,913.3,1500,90,SUP-090,11.61,24,4.9,TRUE
+PROD-000650,Building Blocks,Toys & Games,Educational Toys,Premium,874.36,2681.57,41,196,SUP-052,47.73,12,3.5,TRUE
+PROD-000651,RC Car,Toys & Games,Remote Control,DesertBloom,2792.27,841.28,1911,59,SUP-116,25.92,24,4.2,FALSE
+PROD-000652,RC Drone,Toys & Games,Remote Control,Premium,4848.17,2155.06,565,178,SUP-076,5.53,12,4.5,FALSE
+PROD-000653,RC Boat,Toys & Games,Remote Control,ValueMax,290.32,864.75,668,40,SUP-089,11.8,24,4.1,TRUE
+PROD-000654,RC Helicopter,Toys & Games,Remote Control,Najdi,4471.35,61.54,1555,130,SUP-006,44.81,6,3.1,TRUE
+PROD-000655,RC Tank,Toys & Games,Remote Control,SaudiMart,4790.65,56.71,1396,182,SUP-045,29.74,36,2.5,FALSE
+PROD-000656,RC Truck,Toys & Games,Remote Control,Premium,707.52,810.14,643,181,SUP-081,10.21,36,2.9,TRUE
+PROD-000657,RC Plane,Toys & Games,Remote Control,DesertBloom,617.9,1545.95,211,122,SUP-160,1.14,12,4.5,TRUE
+PROD-000658,RC Submarine,Toys & Games,Remote Control,DesertBloom,3588.71,455.24,340,146,SUP-037,11.35,12,2.8,TRUE
+PROD-000659,RC Robot,Toys & Games,Remote Control,Najdi,4250.55,1551.13,1139,154,SUP-165,33.41,12,4.4,TRUE
+PROD-000660,RC Animal,Toys & Games,Remote Control,Premium,4689.02,506.92,1373,62,SUP-055,34.32,6,2.8,TRUE
+PROD-000661,Brick Set,Toys & Games,Building Blocks,Najdi,3775.28,2959.58,244,174,SUP-150,28.4,0,2.6,TRUE
+PROD-000662,Architecture Kit,Toys & Games,Building Blocks,Premium,2009.11,446.95,1875,48,SUP-062,32.19,24,4.8,TRUE
+PROD-000663,Vehicle Builder,Toys & Games,Building Blocks,DesertBloom,417.22,785.81,1355,111,SUP-078,12.94,6,2.9,TRUE
+PROD-000664,Castle Set,Toys & Games,Building Blocks,SaudiMart,4368.36,2971.67,1859,176,SUP-175,31.89,24,4.5,TRUE
+PROD-000665,Space Station,Toys & Games,Building Blocks,DesertBloom,4544.24,1975.62,1256,194,SUP-116,10.11,6,3.7,TRUE
+PROD-000666,City Builder,Toys & Games,Building Blocks,SaudiMart,2630.42,2351.6,896,88,SUP-057,7.34,0,4.4,TRUE
+PROD-000667,Robot Creator,Toys & Games,Building Blocks,Najdi,3298.84,2493.54,1601,160,SUP-064,0.2,24,3.7,FALSE
+PROD-000668,Animal Kingdom,Toys & Games,Building Blocks,Najdi,2422.68,1095.38,1039,111,SUP-149,25.99,24,4.9,TRUE
+PROD-000669,Train Set,Toys & Games,Building Blocks,Hijazi,4204.82,685.05,680,76,SUP-129,10.67,36,4.9,TRUE
+PROD-000670,Marble Run,Toys & Games,Building Blocks,OasisHome,2677.82,2791.31,1532,171,SUP-075,39.09,0,3.3,TRUE
+PROD-000671,Trampoline,Toys & Games,Outdoor Toys,Hijazi,1908.38,321.42,1253,63,SUP-119,46.96,36,2.8,TRUE
+PROD-000672,Swing Set,Toys & Games,Outdoor Toys,Hijazi,3033.92,1207.24,573,158,SUP-010,43.98,36,3.4,TRUE
+PROD-000673,Sandbox,Toys & Games,Outdoor Toys,RedSea,3290.25,2265.08,671,129,SUP-030,43.52,6,4.7,FALSE
+PROD-000674,Water Slide,Toys & Games,Outdoor Toys,DesertBloom,286.02,1431.91,1488,197,SUP-006,3.28,24,3.3,TRUE
+PROD-000675,Bounce House,Toys & Games,Outdoor Toys,AlFaisal,3472.28,1368.38,1786,95,SUP-123,12.47,0,2.6,FALSE
+PROD-000676,Scooter,Toys & Games,Outdoor Toys,Hijazi,3581.63,2600.57,533,197,SUP-155,39.5,36,3.9,TRUE
+PROD-000677,Skateboard,Toys & Games,Outdoor Toys,Hijazi,4746.74,2105.37,999,180,SUP-126,26.02,36,2.6,TRUE
+PROD-000678,Kite,Toys & Games,Outdoor Toys,DesertBloom,4885.72,2952.58,1178,54,SUP-057,33.76,0,4.9,TRUE
+PROD-000679,Frisbee,Toys & Games,Outdoor Toys,Premium,1083.8,913.51,1839,156,SUP-123,40.29,0,4.4,TRUE
+PROD-000680,Bubble Machine,Toys & Games,Outdoor Toys,SaudiMart,4963.05,594.35,1280,69,SUP-015,38.89,6,3.8,TRUE
+PROD-000681,RPG Game,Toys & Games,Video Games,OasisHome,3761.24,814.26,215,83,SUP-113,36.81,0,2.9,TRUE
+PROD-000682,Shooter Game,Toys & Games,Video Games,SaudiMart,3976.83,817.53,1841,151,SUP-161,42.92,36,2.8,FALSE
+PROD-000683,Racing Game,Toys & Games,Video Games,AlFaisal,2832.28,2967.01,947,78,SUP-036,34.74,36,2.8,FALSE
+PROD-000684,Sports Game,Toys & Games,Video Games,Premium,209.39,1774.59,1857,153,SUP-061,44.14,36,4.6,FALSE
+PROD-000685,Adventure Game,Toys & Games,Video Games,OasisHome,4373,289.68,79,127,SUP-046,1.66,24,4.6,FALSE
+PROD-000686,Puzzle Game,Toys & Games,Video Games,OasisHome,4540.37,2306.99,1111,36,SUP-100,28.98,36,4.4,FALSE
+PROD-000687,Simulation Game,Toys & Games,Video Games,Hijazi,209.75,1949.91,1430,176,SUP-138,37.51,12,3.2,TRUE
+PROD-000688,Fighting Game,Toys & Games,Video Games,ValueMax,335.33,1640.76,167,30,SUP-028,17.22,6,3.6,TRUE
+PROD-000689,Strategy Game,Toys & Games,Video Games,AlFaisal,1681.18,1382.45,30,46,SUP-130,37.37,36,3.7,TRUE
+PROD-000690,Party Game,Toys & Games,Video Games,Premium,1517.6,2563.99,33,53,SUP-042,32.07,24,4.8,TRUE
+PROD-000691,Bear Plush,Toys & Games,Plush Toys,Hijazi,3461.11,2495.54,324,49,SUP-176,17.26,6,3.7,TRUE
+PROD-000692,Unicorn Plush,Toys & Games,Plush Toys,OasisHome,359.17,368.72,545,76,SUP-074,3.48,24,3.5,TRUE
+PROD-000693,Dinosaur Plush,Toys & Games,Plush Toys,Premium,806.05,1390.34,1550,113,SUP-150,22.01,24,3.6,TRUE
+PROD-000694,Character Plush,Toys & Games,Plush Toys,ValueMax,2552.01,831.13,54,110,SUP-049,35.15,12,4.9,TRUE
+PROD-000695,Pillow Pet,Toys & Games,Plush Toys,Hijazi,1442.89,2280.59,124,177,SUP-098,39.64,6,3.1,FALSE
+PROD-000696,Giant Plush,Toys & Games,Plush Toys,ValueMax,2527.27,288.8,1423,94,SUP-194,48.86,6,4,TRUE
+PROD-000697,Interactive Plush,Toys & Games,Plush Toys,Hijazi,2409.23,585.56,1573,24,SUP-084,12.15,36,2.5,TRUE
+PROD-000698,Musical Plush,Toys & Games,Plush Toys,GlobalTech,3913.75,77.82,987,199,SUP-121,27.07,0,5,TRUE
+PROD-000699,Weighted Plush,Toys & Games,Plush Toys,Najdi,1028.75,1920.99,144,170,SUP-139,24.28,0,3,TRUE
+PROD-000700,Collectible Plush,Toys & Games,Plush Toys,DesertBloom,1598.82,2201.53,181,179,SUP-051,11.62,6,2.9,TRUE
+PROD-000701,Vitamin D3,Health & Wellness,Vitamins,RedSea,4370.1,801.15,1420,109,SUP-186,48.41,12,4.8,TRUE
+PROD-000702,Vitamin C,Health & Wellness,Vitamins,Hijazi,2600.69,1486.91,1228,64,SUP-075,14.21,24,4.5,FALSE
+PROD-000703,Vitamin B Complex,Health & Wellness,Vitamins,GlobalTech,2286.18,79,1895,120,SUP-143,19.44,36,4.4,TRUE
+PROD-000704,Multivitamin,Health & Wellness,Vitamins,DesertBloom,4338.51,2045.66,769,50,SUP-056,23.67,36,4.9,TRUE
+PROD-000705,Vitamin E,Health & Wellness,Vitamins,OasisHome,2271.43,263.52,1148,53,SUP-082,48.84,36,4.6,TRUE
+PROD-000706,Vitamin K2,Health & Wellness,Vitamins,SaudiMart,2729.86,1557.23,1579,146,SUP-145,1.55,0,2.9,TRUE
+PROD-000707,Iron Supplement,Health & Wellness,Vitamins,DesertBloom,4733.11,2828.18,1839,123,SUP-056,15.87,36,2.8,FALSE
+PROD-000708,Zinc,Health & Wellness,Vitamins,Hijazi,388.69,525.57,1850,119,SUP-044,8.61,12,4.4,TRUE
+PROD-000709,Magnesium,Health & Wellness,Vitamins,ValueMax,1010.89,956.23,267,149,SUP-074,14.6,24,4.2,TRUE
+PROD-000710,Calcium,Health & Wellness,Vitamins,Premium,1281.89,2173.99,203,62,SUP-091,44.3,6,2.6,TRUE
+PROD-000711,Omega-3 Fish Oil,Health & Wellness,Supplements,OasisHome,943.21,1691.04,142,158,SUP-041,25.07,0,2.9,FALSE
+PROD-000712,Probiotics,Health & Wellness,Supplements,ValueMax,1995.73,1261.37,1867,189,SUP-120,25.7,0,3,TRUE
+PROD-000713,Collagen Peptides,Health & Wellness,Supplements,Hijazi,859.91,2239.25,102,177,SUP-157,10.88,24,3.4,TRUE
+PROD-000714,Ashwagandha,Health & Wellness,Supplements,Hijazi,2088.11,2672.46,1095,86,SUP-136,5.71,0,4.3,FALSE
+PROD-000715,Turmeric Curcumin,Health & Wellness,Supplements,Hijazi,2823.36,2575.55,1987,45,SUP-143,14.6,12,2.7,TRUE
+PROD-000716,Spirulina,Health & Wellness,Supplements,SaudiMart,2551.13,2942.81,1272,129,SUP-090,12.56,36,3.3,TRUE
+PROD-000717,Whey Protein,Health & Wellness,Supplements,SaudiMart,1875.45,1214.2,593,194,SUP-089,31.73,36,4.6,TRUE
+PROD-000718,Creatine,Health & Wellness,Supplements,SaudiMart,4679.8,304.9,1711,138,SUP-094,43.24,36,3.6,FALSE
+PROD-000719,BCAA,Health & Wellness,Supplements,DesertBloom,708.87,2896.64,695,140,SUP-187,32.96,12,2.6,TRUE
+PROD-000720,Glucosamine,Health & Wellness,Supplements,AlFaisal,3090.73,2684.07,1662,50,SUP-170,7.91,6,4.9,TRUE
+PROD-000721,Blood Pressure Monitor,Health & Wellness,Medical Devices,AlFaisal,1356.36,862.05,1595,165,SUP-094,46.47,0,3.1,TRUE
+PROD-000722,Digital Thermometer,Health & Wellness,Medical Devices,Hijazi,2889.2,1641.22,676,84,SUP-110,23.52,24,2.9,FALSE
+PROD-000723,Pulse Oximeter,Health & Wellness,Medical Devices,Hijazi,3339.83,1564.32,1154,22,SUP-114,16.04,0,3.5,TRUE
+PROD-000724,Glucometer,Health & Wellness,Medical Devices,Najdi,2139.67,1217.79,988,179,SUP-077,0.75,36,4.6,TRUE
+PROD-000725,Nebulizer,Health & Wellness,Medical Devices,Hijazi,1055,2163,347,178,SUP-186,5.66,24,3.2,TRUE
+PROD-000726,TENS Unit,Health & Wellness,Medical Devices,OasisHome,2008.82,862.85,1367,111,SUP-078,12.62,6,4,TRUE
+PROD-000727,Heating Pad,Health & Wellness,Medical Devices,Najdi,1674.37,1998.56,665,153,SUP-072,28.06,0,5,TRUE
+PROD-000728,Cold Pack,Health & Wellness,Medical Devices,ValueMax,910.32,387.33,458,103,SUP-183,20.14,6,2.8,TRUE
+PROD-000729,Compression Socks,Health & Wellness,Medical Devices,AlFaisal,4514.69,253.37,998,96,SUP-131,31.77,6,3.5,TRUE
+PROD-000730,Posture Corrector,Health & Wellness,Medical Devices,Premium,3680.31,1055.55,518,120,SUP-009,23.78,12,3.1,TRUE
+PROD-000731,First Aid Kit,Health & Wellness,First Aid,Hijazi,1882.29,580.85,896,61,SUP-109,46.47,0,4.7,TRUE
+PROD-000732,Bandage Set,Health & Wellness,First Aid,Premium,3371.6,794.18,813,71,SUP-166,3.91,12,3.6,FALSE
+PROD-000733,Antiseptic Spray,Health & Wellness,First Aid,GlobalTech,3835.76,1270.13,102,155,SUP-138,35.6,36,3.7,TRUE
+PROD-000734,Burn Gel,Health & Wellness,First Aid,Premium,4074.47,590,968,171,SUP-154,33.37,36,4.8,TRUE
+PROD-000735,Splint,Health & Wellness,First Aid,Najdi,3560.98,1548.78,88,179,SUP-104,16.57,0,3.9,FALSE
+PROD-000736,CPR Mask,Health & Wellness,First Aid,RedSea,3224.98,2117.95,397,66,SUP-022,23.79,24,5,TRUE
+PROD-000737,Emergency Blanket,Health & Wellness,First Aid,RedSea,1600.46,861.24,976,194,SUP-119,1.27,0,3.8,TRUE
+PROD-000738,Eye Wash,Health & Wellness,First Aid,AlFaisal,2767.29,1526.49,390,99,SUP-139,39.59,24,3.2,TRUE
+PROD-000739,Tweezer Set,Health & Wellness,First Aid,DesertBloom,4269.9,2120.43,631,41,SUP-019,36.33,12,3.6,TRUE
+PROD-000740,Medical Tape,Health & Wellness,First Aid,Hijazi,2277.91,2741.37,1905,184,SUP-089,40.85,24,2.9,FALSE
+PROD-000741,Smart Band,Health & Wellness,Fitness Trackers,ValueMax,2828.98,251.17,116,114,SUP-033,22.58,36,2.9,TRUE
+PROD-000742,Heart Rate Monitor,Health & Wellness,Fitness Trackers,Premium,1638.78,1198.95,1672,46,SUP-109,35.98,12,4.8,FALSE
+PROD-000743,GPS Watch,Health & Wellness,Fitness Trackers,SaudiMart,2007.63,2061.2,1299,99,SUP-145,38.97,6,3.1,TRUE
+PROD-000744,Body Composition Scale,Health & Wellness,Fitness Trackers,AlFaisal,3477.2,1619.87,1055,153,SUP-052,36.31,6,3.1,TRUE
+PROD-000745,Sleep Tracker,Health & Wellness,Fitness Trackers,RedSea,2913.5,1955.38,732,93,SUP-131,16.3,36,4.2,TRUE
+PROD-000746,Smart Ring,Health & Wellness,Fitness Trackers,SaudiMart,4705.01,2422.01,879,131,SUP-083,10.46,24,4,TRUE
+PROD-000747,Posture Sensor,Health & Wellness,Fitness Trackers,SaudiMart,2843.47,72.15,1729,157,SUP-022,0.11,0,3,TRUE
+PROD-000748,Hydration Tracker,Health & Wellness,Fitness Trackers,Najdi,2004.95,2548.45,955,163,SUP-004,25.46,36,4.6,TRUE
+PROD-000749,Smart Insole,Health & Wellness,Fitness Trackers,RedSea,3474.96,2757.41,1188,37,SUP-101,48.65,6,4.9,FALSE
+PROD-000750,Activity Clip,Health & Wellness,Fitness Trackers,Najdi,1738.25,449.97,1499,175,SUP-196,14.82,6,3.4,TRUE
+PROD-000751,Massage Gun,Health & Wellness,Massage,DesertBloom,678.56,2630.97,238,112,SUP-052,18.48,24,3.3,TRUE
+PROD-000752,Neck Massager,Health & Wellness,Massage,Hijazi,379.06,1780.29,1770,121,SUP-191,19.78,0,3.4,TRUE
+PROD-000753,Foot Massager,Health & Wellness,Massage,DesertBloom,3036.1,2361.4,435,155,SUP-007,5.56,0,4.4,FALSE
+PROD-000754,Massage Chair Pad,Health & Wellness,Massage,SaudiMart,591.15,1387.21,1879,95,SUP-079,19.87,36,3.1,FALSE
+PROD-000755,Hot Stone Set,Health & Wellness,Massage,RedSea,2878.94,1466.21,662,22,SUP-117,27.43,6,2.7,TRUE
+PROD-000756,Massage Oil,Health & Wellness,Massage,OasisHome,1124.81,2571.53,1748,194,SUP-058,13.71,24,3.4,TRUE
+PROD-000757,Acupressure Mat,Health & Wellness,Massage,Hijazi,1444.3,1918.17,1719,183,SUP-057,22.68,0,3.2,FALSE
+PROD-000758,Foam Roller,Health & Wellness,Massage,RedSea,2812.23,2212.32,1422,118,SUP-136,34.3,36,3,TRUE
+PROD-000759,Massage Ball,Health & Wellness,Massage,ValueMax,3594.87,2024.52,1798,69,SUP-166,6.62,36,3.5,TRUE
+PROD-000760,Shiatsu Pillow,Health & Wellness,Massage,Premium,1460.01,1876.18,1727,125,SUP-056,44.37,12,4.8,TRUE
+PROD-000761,Blue Light Glasses,Health & Wellness,Eye Care,GlobalTech,718.71,1975.88,1373,165,SUP-021,13.2,36,4.3,TRUE
+PROD-000762,Eye Drops,Health & Wellness,Eye Care,DesertBloom,1618.06,2656.1,689,167,SUP-094,11.91,0,2.7,FALSE
+PROD-000763,Eye Mask,Health & Wellness,Eye Care,AlFaisal,1368.81,2193.31,118,106,SUP-160,43.01,12,3.4,TRUE
+PROD-000764,Heated Eye Compress,Health & Wellness,Eye Care,RedSea,1575.54,2313.64,144,21,SUP-036,1.98,6,3.8,FALSE
+PROD-000765,Magnifying Glass,Health & Wellness,Eye Care,SaudiMart,3163.43,225.91,1714,182,SUP-110,1.21,12,4.9,TRUE
+PROD-000766,Contact Lens Solution,Health & Wellness,Eye Care,DesertBloom,4781.7,305.17,1798,21,SUP-009,14.39,36,3.7,FALSE
+PROD-000767,Eye Vitamin,Health & Wellness,Eye Care,AlFaisal,734.18,129,123,154,SUP-073,27.61,12,3.2,TRUE
+PROD-000768,Eye Massager,Health & Wellness,Eye Care,AlFaisal,3542.43,2823.5,1059,118,SUP-037,9.22,36,2.6,TRUE
+PROD-000769,Reading Glasses,Health & Wellness,Eye Care,RedSea,1426.81,291.13,181,24,SUP-089,48.17,24,3.7,TRUE
+PROD-000770,Eye Patch,Health & Wellness,Eye Care,ValueMax,1094.28,2603.52,1320,125,SUP-194,28.71,0,3.7,TRUE
+PROD-000771,Test Strips,Health & Wellness,Diabetes Care,Najdi,1267.16,1552.92,1008,56,SUP-184,12.09,36,4.9,TRUE
+PROD-000772,Lancets,Health & Wellness,Diabetes Care,Premium,3169.06,1730.74,1815,188,SUP-086,4.22,12,4.1,TRUE
+PROD-000773,Insulin Pen,Health & Wellness,Diabetes Care,RedSea,2331.26,77.43,627,153,SUP-051,34.91,24,3.5,FALSE
+PROD-000774,Glucose Tabs,Health & Wellness,Diabetes Care,OasisHome,4390.14,1090.94,436,159,SUP-041,23.06,12,3,TRUE
+PROD-000775,Diabetic Socks,Health & Wellness,Diabetes Care,DesertBloom,3488.33,1188.82,1632,61,SUP-033,16.93,24,4.7,TRUE
+PROD-000776,Foot Cream,Health & Wellness,Diabetes Care,RedSea,2654.53,1370.74,1846,194,SUP-190,6.93,6,4.6,TRUE
+PROD-000777,Meal Planner,Health & Wellness,Diabetes Care,RedSea,4480.46,1237.24,868,143,SUP-094,46.38,0,3.1,TRUE
+PROD-000778,Sugar Substitute,Health & Wellness,Diabetes Care,ValueMax,4889.6,2221.02,1841,41,SUP-139,15.84,6,2.7,FALSE
+PROD-000779,Diabetic Shoes,Health & Wellness,Diabetes Care,GlobalTech,4226.23,2443.7,247,197,SUP-006,13.88,12,3,TRUE
+PROD-000780,Carb Counter,Health & Wellness,Diabetes Care,AlFaisal,3821.07,1755.06,109,168,SUP-151,44.76,6,4.5,TRUE
+PROD-000781,Nebulizer Machine,Health & Wellness,Respiratory,ValueMax,4196.44,2093.05,112,155,SUP-124,43.87,24,3.8,FALSE
+PROD-000782,Inhaler Spacer,Health & Wellness,Respiratory,AlFaisal,1646.87,2014.62,318,61,SUP-090,9.33,24,3.6,TRUE
+PROD-000783,Humidifier,Health & Wellness,Respiratory,Hijazi,1687.82,2081.83,1723,95,SUP-080,48.45,36,2.9,FALSE
+PROD-000784,Air Purifier,Health & Wellness,Respiratory,AlFaisal,129.94,1812.18,299,112,SUP-034,35.43,24,3.3,TRUE
+PROD-000785,Nasal Spray,Health & Wellness,Respiratory,DesertBloom,4292.67,2290.99,354,43,SUP-109,19.33,36,4.9,TRUE
+PROD-000786,Steam Inhaler,Health & Wellness,Respiratory,DesertBloom,966.63,2377.75,1997,90,SUP-156,27.42,0,4.2,TRUE
+PROD-000787,Oxygen Concentrator,Health & Wellness,Respiratory,SaudiMart,3659.88,2103.71,1360,101,SUP-117,44.07,24,4.1,TRUE
+PROD-000788,CPAP Mask,Health & Wellness,Respiratory,DesertBloom,1278.44,875.37,502,152,SUP-099,35.59,6,3.4,TRUE
+PROD-000789,Breathing Trainer,Health & Wellness,Respiratory,GlobalTech,4600.58,1019.1,719,72,SUP-056,36.59,6,4.1,FALSE
+PROD-000790,Allergen Mask,Health & Wellness,Respiratory,Hijazi,3256.14,659.34,1788,131,SUP-082,48.83,12,3.8,FALSE
+PROD-000791,Heating Pad,Health & Wellness,Pain Relief,Najdi,4956.5,905.67,1660,181,SUP-100,42.84,36,4,TRUE
+PROD-000792,TENS Device,Health & Wellness,Pain Relief,AlFaisal,3384.16,2642.22,1167,145,SUP-057,31.8,6,4.3,TRUE
+PROD-000793,Topical Cream,Health & Wellness,Pain Relief,Premium,4655.7,2759.82,1370,193,SUP-178,43.83,12,4.1,TRUE
+PROD-000794,Pain Relief Patch,Health & Wellness,Pain Relief,ValueMax,2627.22,2134.58,836,156,SUP-120,20.55,36,2.6,TRUE
+PROD-000795,Back Support Belt,Health & Wellness,Pain Relief,SaudiMart,1594.47,243.09,1904,108,SUP-198,17.72,0,2.6,TRUE
+PROD-000796,Knee Brace,Health & Wellness,Pain Relief,ValueMax,3133.56,374.89,1067,122,SUP-194,30.33,24,4.7,TRUE
+PROD-000797,Wrist Wrap,Health & Wellness,Pain Relief,AlFaisal,2780.73,1827.66,131,144,SUP-019,36.73,24,4.6,FALSE
+PROD-000798,Ankle Support,Health & Wellness,Pain Relief,SaudiMart,4120.91,2189.86,1806,126,SUP-130,10.77,0,3.4,FALSE
+PROD-000799,Neck Collar,Health & Wellness,Pain Relief,DesertBloom,3245.98,788.36,123,119,SUP-013,18.78,0,4.4,FALSE
+PROD-000800,Acupuncture Mat,Health & Wellness,Pain Relief,ValueMax,3844.72,1448.53,1249,22,SUP-088,13.36,12,4.4,FALSE
+PROD-000801,Car Wax,Automotive,Car Care,Premium,3939.38,2205.45,1588,37,SUP-155,41,12,4.3,TRUE
+PROD-000802,Wash Shampoo,Automotive,Car Care,ValueMax,3675.29,2079.78,1364,83,SUP-045,24.88,0,2.6,FALSE
+PROD-000803,Tire Shine,Automotive,Car Care,OasisHome,643.14,2850.73,748,179,SUP-036,6.11,6,3.1,TRUE
+PROD-000804,Glass Cleaner,Automotive,Car Care,OasisHome,4305.08,1530.07,1154,182,SUP-016,16.3,12,4.9,TRUE
+PROD-000805,Leather Conditioner,Automotive,Car Care,GlobalTech,2222.65,2327.21,161,34,SUP-166,32.74,24,3,TRUE
+PROD-000806,Dashboard Polish,Automotive,Car Care,GlobalTech,2632.22,1163.75,1819,136,SUP-005,32.63,36,3.8,TRUE
+PROD-000807,Wheel Cleaner,Automotive,Car Care,AlFaisal,114.68,963.83,1888,95,SUP-093,31.01,0,3.9,TRUE
+PROD-000808,Clay Bar Kit,Automotive,Car Care,GlobalTech,755.9,882.57,907,20,SUP-148,29.05,6,3.1,TRUE
+PROD-000809,Detailing Brush,Automotive,Car Care,OasisHome,1799.02,2540.84,43,107,SUP-072,34.65,24,4.7,FALSE
+PROD-000810,Drying Towel,Automotive,Car Care,RedSea,3759.79,1452.52,1330,162,SUP-175,19.29,6,4.1,TRUE
+PROD-000811,Seat Covers,Automotive,Interior Accessories,OasisHome,2054.05,2072.34,388,42,SUP-076,43.9,6,4.4,TRUE
+PROD-000812,Floor Mats,Automotive,Interior Accessories,Premium,3255.55,2337.88,1701,54,SUP-200,1.22,24,4.4,TRUE
+PROD-000813,Steering Wheel Cover,Automotive,Interior Accessories,AlFaisal,3337.19,1557.96,674,157,SUP-078,2.8,6,2.9,FALSE
+PROD-000814,Sun Shade,Automotive,Interior Accessories,Najdi,3434.35,395.85,1134,33,SUP-109,37.9,24,2.8,TRUE
+PROD-000815,Phone Mount,Automotive,Interior Accessories,Hijazi,2959.28,2255.44,1495,92,SUP-066,45.12,12,4.7,TRUE
+PROD-000816,Cup Holder Organizer,Automotive,Interior Accessories,ValueMax,205.62,1324.64,608,184,SUP-037,3.36,0,4.6,TRUE
+PROD-000817,Trash Can,Automotive,Interior Accessories,SaudiMart,2088.18,2173.58,604,71,SUP-186,24.55,0,4.2,TRUE
+PROD-000818,Seat Gap Filler,Automotive,Interior Accessories,DesertBloom,1668.44,2627.13,708,89,SUP-048,40.58,24,5,TRUE
+PROD-000819,Neck Pillow,Automotive,Interior Accessories,OasisHome,3446.38,1700.02,934,52,SUP-080,49.29,24,3.8,TRUE
+PROD-000820,Ambient Light,Automotive,Interior Accessories,DesertBloom,819.16,1002.79,1735,76,SUP-087,1.41,6,3.6,FALSE
+PROD-000821,Car Cover,Automotive,Exterior Accessories,RedSea,3260.46,1921.97,15,69,SUP-059,25.94,24,4.7,TRUE
+PROD-000822,Bumper Guard,Automotive,Exterior Accessories,Hijazi,4436,1023.78,1805,146,SUP-176,35.64,12,2.9,TRUE
+PROD-000823,Door Edge Protector,Automotive,Exterior Accessories,GlobalTech,4248.68,2665.96,1367,61,SUP-186,45.39,0,4.3,TRUE
+PROD-000824,Window Visor,Automotive,Exterior Accessories,DesertBloom,1085.76,2912.23,272,32,SUP-049,11.38,36,3.7,TRUE
+PROD-000825,Mud Flaps,Automotive,Exterior Accessories,Premium,1519.03,2758.62,1727,73,SUP-092,41.8,0,2.8,TRUE
+PROD-000826,Roof Rack,Automotive,Exterior Accessories,Najdi,1210.82,601.21,773,126,SUP-145,14.06,6,3.5,TRUE
+PROD-000827,Spoiler,Automotive,Exterior Accessories,Premium,1885.65,1871.46,622,177,SUP-019,30.33,24,3.9,TRUE
+PROD-000828,Side Mirror Cover,Automotive,Exterior Accessories,GlobalTech,4200.51,2131.54,1835,99,SUP-076,40.09,12,3.1,TRUE
+PROD-000829,License Plate Frame,Automotive,Exterior Accessories,ValueMax,1958.53,1495.99,1006,100,SUP-149,15.65,6,3.9,TRUE
+PROD-000830,Antenna,Automotive,Exterior Accessories,Premium,3241.9,1579.84,806,47,SUP-102,47.52,24,3.1,TRUE
+PROD-000831,All-Season Tire,Automotive,Tires,DesertBloom,3967.85,2432.9,1235,40,SUP-025,17.02,0,3.4,TRUE
+PROD-000832,Summer Tire,Automotive,Tires,RedSea,3033.87,1397.44,11,111,SUP-174,49.32,36,2.8,TRUE
+PROD-000833,Winter Tire,Automotive,Tires,SaudiMart,4718.83,1290.44,1316,89,SUP-127,19.9,0,4.9,FALSE
+PROD-000834,Run-Flat Tire,Automotive,Tires,Hijazi,3426.11,2409.92,1472,90,SUP-153,44.57,24,3.4,TRUE
+PROD-000835,Off-Road Tire,Automotive,Tires,AlFaisal,520.29,1544.39,533,113,SUP-106,8.3,36,3,TRUE
+PROD-000836,Performance Tire,Automotive,Tires,ValueMax,1636.15,2538.65,222,105,SUP-178,26.64,6,4.3,TRUE
+PROD-000837,Spare Tire,Automotive,Tires,SaudiMart,2975.71,2963.56,997,122,SUP-010,17.17,24,3.6,TRUE
+PROD-000838,Tire Pressure Gauge,Automotive,Tires,Najdi,432.52,825.3,1874,160,SUP-175,11,12,3.1,TRUE
+PROD-000839,Tire Inflator,Automotive,Tires,Najdi,2436.51,1743.39,787,168,SUP-188,36.94,6,3.8,TRUE
+PROD-000840,Tire Repair Kit,Automotive,Tires,AlFaisal,3366.14,2544.35,206,93,SUP-165,29.81,24,4.9,TRUE
+PROD-000841,Socket Set,Automotive,Tools,DesertBloom,3071.42,1561.59,460,41,SUP-195,36.7,24,4.2,FALSE
+PROD-000842,Screwdriver Kit,Automotive,Tools,Hijazi,3453.79,2658.22,539,134,SUP-135,49.35,36,4.8,TRUE
+PROD-000843,Torque Wrench,Automotive,Tools,DesertBloom,31.19,197.43,177,44,SUP-104,30.9,12,4.6,TRUE
+PROD-000844,Jack Stand,Automotive,Tools,Najdi,3768.26,1498.34,1948,191,SUP-022,25.27,24,4.2,TRUE
+PROD-000845,Multimeter,Automotive,Tools,AlFaisal,1152.99,1717.89,1378,138,SUP-069,47.62,0,3.4,TRUE
+PROD-000846,Diagnostic Scanner,Automotive,Tools,GlobalTech,2894.66,1752.23,1752,169,SUP-150,15.03,36,3.8,TRUE
+PROD-000847,Impact Driver,Automotive,Tools,GlobalTech,4234.88,2746.1,591,63,SUP-100,4.09,6,2.9,FALSE
+PROD-000848,Work Light,Automotive,Tools,RedSea,156.82,1078.76,343,62,SUP-135,34.02,36,3.9,TRUE
+PROD-000849,Tool Box,Automotive,Tools,Hijazi,164.32,352.89,1522,80,SUP-089,22.7,12,3.1,TRUE
+PROD-000850,Breaker Bar,Automotive,Tools,Premium,2839.1,356.81,60,99,SUP-166,43.43,6,3.1,TRUE
+PROD-000851,Dash Cam,Automotive,Electronics,GlobalTech,4446.42,2890.34,1110,180,SUP-092,13.05,36,3.9,FALSE
+PROD-000852,GPS Navigator,Automotive,Electronics,DesertBloom,2010.73,2616.7,205,186,SUP-086,2.72,0,2.5,FALSE
+PROD-000853,Bluetooth Adapter,Automotive,Electronics,Najdi,2220.16,165.94,1901,193,SUP-199,6.55,36,3.4,FALSE
+PROD-000854,Backup Camera,Automotive,Electronics,ValueMax,106.99,645.07,570,191,SUP-012,41.53,24,3.2,TRUE
+PROD-000855,TPMS Sensor,Automotive,Electronics,OasisHome,4263.53,1708.92,1025,91,SUP-137,25.19,24,3.5,TRUE
+PROD-000856,LED Headlight,Automotive,Electronics,Premium,3594.53,1260.67,1978,152,SUP-178,46.62,0,5,TRUE
+PROD-000857,Subwoofer,Automotive,Electronics,DesertBloom,1200.73,1711.9,71,109,SUP-155,44.76,6,4.4,TRUE
+PROD-000858,Amplifier,Automotive,Electronics,Najdi,743.88,436.45,684,55,SUP-101,13.59,6,3.5,TRUE
+PROD-000859,Remote Starter,Automotive,Electronics,OasisHome,4232.85,2959.31,1628,156,SUP-122,2.98,12,3.7,FALSE
+PROD-000860,Radar Detector,Automotive,Electronics,DesertBloom,4189.53,1524.67,1018,115,SUP-078,25.24,0,4.3,TRUE
+PROD-000861,LED Headlight Bulb,Automotive,Lighting,ValueMax,2161.7,1240.28,546,116,SUP-147,30.53,36,3.1,TRUE
+PROD-000862,Fog Light,Automotive,Lighting,Najdi,3616.46,374.17,1650,128,SUP-129,16.99,24,3.6,FALSE
+PROD-000863,Tail Light,Automotive,Lighting,Premium,3022.68,698.6,280,98,SUP-159,22.58,12,4.5,TRUE
+PROD-000864,Interior LED Kit,Automotive,Lighting,SaudiMart,1146.37,1177.09,155,176,SUP-147,28.2,6,3.4,TRUE
+PROD-000865,Underglow Kit,Automotive,Lighting,OasisHome,3926.44,2776.96,1408,121,SUP-029,31.66,24,4.7,TRUE
+PROD-000866,Light Bar,Automotive,Lighting,DesertBloom,4339.07,2520.3,1515,68,SUP-101,26.8,24,4.3,TRUE
+PROD-000867,Strobe Light,Automotive,Lighting,OasisHome,2268.79,1406.18,1126,130,SUP-083,26.95,36,2.6,TRUE
+PROD-000868,License Plate Light,Automotive,Lighting,Najdi,3917.86,2073.29,80,84,SUP-106,16.96,12,3.4,FALSE
+PROD-000869,Turn Signal,Automotive,Lighting,Najdi,1117.1,1161.34,1542,73,SUP-101,9.83,36,4.2,TRUE
+PROD-000870,Daytime Running Light,Automotive,Lighting,OasisHome,4583.44,435.74,1351,55,SUP-046,10.62,0,4.8,TRUE
+PROD-000871,First Aid Kit,Automotive,Safety,GlobalTech,297.41,1480.32,1535,166,SUP-141,40.77,0,3.3,FALSE
+PROD-000872,Fire Extinguisher,Automotive,Safety,ValueMax,4691.65,2213.62,1020,31,SUP-194,4.72,6,3,FALSE
+PROD-000873,Warning Triangle,Automotive,Safety,ValueMax,4062.09,2236.13,1515,146,SUP-162,23.61,12,4,TRUE
+PROD-000874,Reflective Vest,Automotive,Safety,DesertBloom,3007.74,1772.25,1392,178,SUP-034,30.99,0,2.7,TRUE
+PROD-000875,Emergency Hammer,Automotive,Safety,Hijazi,87.22,863.13,1809,141,SUP-069,35.7,36,4.7,TRUE
+PROD-000876,Seatbelt Cutter,Automotive,Safety,Hijazi,3533.92,1808.96,160,40,SUP-058,30.24,36,2.8,FALSE
+PROD-000877,Tire Chains,Automotive,Safety,ValueMax,2121.33,941.94,490,159,SUP-038,38.68,36,3.1,TRUE
+PROD-000878,Snow Brush,Automotive,Safety,Premium,84.23,65.67,1403,75,SUP-064,28.15,6,4.8,FALSE
+PROD-000879,Jumper Cables,Automotive,Safety,OasisHome,4722.37,1218.52,612,35,SUP-073,25,24,2.7,TRUE
+PROD-000880,Towing Strap,Automotive,Safety,AlFaisal,4445.42,1266.45,1855,191,SUP-185,16.05,0,3.8,TRUE
+PROD-000881,Engine Oil 5W-30,Automotive,Oils,SaudiMart,1999,2867.38,1233,93,SUP-170,44.92,36,3,TRUE
+PROD-000882,Transmission Fluid,Automotive,Oils,GlobalTech,3716.24,1475.37,1033,168,SUP-183,45.59,12,4.3,TRUE
+PROD-000883,Brake Fluid,Automotive,Oils,DesertBloom,223.9,2720.79,79,194,SUP-144,30,36,4.2,TRUE
+PROD-000884,Coolant,Automotive,Oils,Hijazi,804.17,450.57,1633,56,SUP-168,44.76,24,3.2,FALSE
+PROD-000885,Power Steering Fluid,Automotive,Oils,Premium,1196.49,111.58,1279,99,SUP-069,6.27,36,4.9,TRUE
+PROD-000886,Differential Oil,Automotive,Oils,RedSea,3811.84,814.1,310,106,SUP-064,24.34,6,3.2,TRUE
+PROD-000887,Grease,Automotive,Oils,GlobalTech,4039.78,1507.5,1124,87,SUP-122,37.46,0,2.9,TRUE
+PROD-000888,Chain Lube,Automotive,Oils,Premium,3356.66,575.91,113,174,SUP-017,18.77,0,4,TRUE
+PROD-000889,Penetrating Oil,Automotive,Oils,SaudiMart,1471.41,726.15,1213,133,SUP-197,28.95,6,4.8,TRUE
+PROD-000890,Fuel Additive,Automotive,Oils,RedSea,4502.86,92.22,1530,59,SUP-078,7.3,0,3.3,FALSE
+PROD-000891,Brake Pads,Automotive,Parts,OasisHome,545.33,2751.61,1561,60,SUP-109,41.99,12,3.2,TRUE
+PROD-000892,Air Filter,Automotive,Parts,Premium,2350.71,2353.99,1612,130,SUP-173,46.06,36,3.5,FALSE
+PROD-000893,Oil Filter,Automotive,Parts,Najdi,3174.21,1318.27,382,164,SUP-107,6.35,0,3.3,FALSE
+PROD-000894,Spark Plugs,Automotive,Parts,AlFaisal,3968.57,1641.83,180,34,SUP-024,34.46,12,2.7,TRUE
+PROD-000895,Wiper Blades,Automotive,Parts,Premium,3641.42,456.94,1885,171,SUP-163,9.03,0,3.5,TRUE
+PROD-000896,Battery,Automotive,Parts,GlobalTech,2401.57,1676.16,1730,103,SUP-031,16.07,6,4.7,TRUE
+PROD-000897,Alternator,Automotive,Parts,SaudiMart,1560.33,2729,1928,26,SUP-094,13.79,36,2.6,TRUE
+PROD-000898,Radiator,Automotive,Parts,Premium,1513.34,1933.54,1516,105,SUP-169,49.99,24,4.4,TRUE
+PROD-000899,Shock Absorber,Automotive,Parts,RedSea,641.93,156.69,579,142,SUP-054,42,36,4.6,FALSE
+PROD-000900,Clutch Kit,Automotive,Parts,AlFaisal,4644.32,1164.52,329,62,SUP-192,26.16,12,3.2,TRUE
+PROD-000901,Arabic Coffee,Groceries,Beverages,OasisHome,3398.45,970.23,1335,33,SUP-045,34.2,0,2.6,FALSE
+PROD-000902,Green Tea,Groceries,Beverages,Hijazi,90.15,432.73,1690,74,SUP-082,27.18,6,3.3,TRUE
+PROD-000903,Energy Drink,Groceries,Beverages,Najdi,882.01,936.15,169,114,SUP-122,44.88,36,4.8,TRUE
+PROD-000904,Sparkling Water,Groceries,Beverages,DesertBloom,2544.94,1184.33,73,87,SUP-025,19.09,12,3.1,TRUE
+PROD-000905,Fresh Juice,Groceries,Beverages,OasisHome,4046.03,918.81,1863,48,SUP-184,37.64,36,3.9,TRUE
+PROD-000906,Herbal Tea,Groceries,Beverages,AlFaisal,3326.63,1362.21,586,186,SUP-108,31.35,6,3,TRUE
+PROD-000907,Protein Shake,Groceries,Beverages,SaudiMart,1372.06,56.09,1844,31,SUP-171,33.29,12,3.9,TRUE
+PROD-000908,Coconut Water,Groceries,Beverages,Premium,604.69,1990.62,716,80,SUP-088,0.26,24,2.8,TRUE
+PROD-000909,Kombucha,Groceries,Beverages,AlFaisal,4755.9,1609.85,68,172,SUP-153,13.87,0,4.9,TRUE
+PROD-000910,Milk,Groceries,Beverages,OasisHome,2224.48,593.92,437,37,SUP-046,40.74,36,4.7,FALSE
+PROD-000911,Dates Box,Groceries,Snacks,AlFaisal,1691.27,2329,698,188,SUP-016,42.79,6,2.5,TRUE
+PROD-000912,Mixed Nuts,Groceries,Snacks,AlFaisal,962.11,2122.4,1547,146,SUP-173,33.8,6,3.6,TRUE
+PROD-000913,Popcorn,Groceries,Snacks,GlobalTech,1073.58,559.02,1593,91,SUP-102,16.33,36,3,TRUE
+PROD-000914,Chips,Groceries,Snacks,ValueMax,510.57,1308.83,1289,62,SUP-012,5.81,12,2.6,FALSE
+PROD-000915,Chocolate Bar,Groceries,Snacks,ValueMax,4524.34,2787.62,562,24,SUP-002,22.54,24,4.5,FALSE
+PROD-000916,Protein Bar,Groceries,Snacks,SaudiMart,513.48,101.27,1485,76,SUP-199,5.58,24,4.5,TRUE
+PROD-000917,Dried Fruit,Groceries,Snacks,ValueMax,3635.27,1295.8,358,44,SUP-095,18.03,6,4.6,FALSE
+PROD-000918,Granola,Groceries,Snacks,AlFaisal,1022.18,1486.99,670,53,SUP-140,18.84,6,4.8,TRUE
+PROD-000919,Rice Cakes,Groceries,Snacks,RedSea,4995.87,2693.7,1312,191,SUP-013,1.74,12,3.9,FALSE
+PROD-000920,Seeds Mix,Groceries,Snacks,AlFaisal,4285.01,258.23,466,107,SUP-010,31.99,6,2.9,FALSE
+PROD-000921,Laban,Groceries,Dairy,RedSea,78.72,2015.56,1210,145,SUP-096,49.05,24,5,TRUE
+PROD-000922,Cheese,Groceries,Dairy,DesertBloom,4577.67,1044.46,1286,163,SUP-173,2,6,4.5,TRUE
+PROD-000923,Yogurt,Groceries,Dairy,DesertBloom,566.08,910.32,285,156,SUP-182,25.58,0,3.5,TRUE
+PROD-000924,Butter,Groceries,Dairy,RedSea,4378.51,1477.69,1331,171,SUP-048,24.3,36,3.5,TRUE
+PROD-000925,Cream Cheese,Groceries,Dairy,ValueMax,3363.6,2459.64,11,108,SUP-095,41.45,12,4.4,FALSE
+PROD-000926,Ghee,Groceries,Dairy,SaudiMart,3954.57,2440.21,1776,68,SUP-189,37.01,0,3.2,TRUE
+PROD-000927,Milk Powder,Groceries,Dairy,ValueMax,1373.17,341.97,1851,165,SUP-144,45.9,6,4.2,FALSE
+PROD-000928,Ice Cream,Groceries,Dairy,RedSea,1466.21,723.22,1008,72,SUP-029,48.74,0,2.9,TRUE
+PROD-000929,Custard,Groceries,Dairy,OasisHome,4901.87,159.55,217,195,SUP-002,11.18,0,2.7,TRUE
+PROD-000930,Whipped Cream,Groceries,Dairy,SaudiMart,2465.5,1126.13,1169,139,SUP-138,39.65,6,2.7,FALSE
+PROD-000931,Chicken Breast,Groceries,Meat,OasisHome,1272.97,922.53,1507,93,SUP-060,46.96,12,3,TRUE
+PROD-000932,Lamb Chops,Groceries,Meat,Hijazi,4862.71,2678.32,43,151,SUP-038,44.78,36,2.9,TRUE
+PROD-000933,Beef Steak,Groceries,Meat,Najdi,414.71,2843.04,1337,41,SUP-149,44.25,36,3.8,TRUE
+PROD-000934,Ground Beef,Groceries,Meat,Hijazi,1140.29,2492.24,293,144,SUP-032,15.45,6,3.4,TRUE
+PROD-000935,Fish Fillet,Groceries,Meat,DesertBloom,2677.18,1308.9,1064,126,SUP-055,38.07,36,3.6,TRUE
+PROD-000936,Shrimp,Groceries,Meat,OasisHome,4787.18,507.15,1075,77,SUP-196,7.83,6,3.7,TRUE
+PROD-000937,Turkey,Groceries,Meat,ValueMax,1319.01,2630.87,287,142,SUP-178,14.7,6,3.4,TRUE
+PROD-000938,Duck,Groceries,Meat,Premium,1628.76,548.23,751,163,SUP-013,8.36,6,2.8,TRUE
+PROD-000939,Kebab,Groceries,Meat,Premium,1781.01,843.97,1098,26,SUP-084,37.34,0,3.1,TRUE
+PROD-000940,Sausages,Groceries,Meat,Hijazi,1138.77,1910.22,1713,88,SUP-149,2.4,36,3.1,TRUE
+PROD-000941,Khubz,Groceries,Bakery,Hijazi,4962.12,1606.17,1934,184,SUP-199,45.14,0,4.3,TRUE
+PROD-000942,Croissant,Groceries,Bakery,RedSea,3801.79,1224.06,1809,38,SUP-185,14.32,24,2.7,TRUE
+PROD-000943,Muffin,Groceries,Bakery,AlFaisal,1314.26,573.89,1482,83,SUP-121,3.03,12,3.3,FALSE
+PROD-000944,Baguette,Groceries,Bakery,OasisHome,1464.59,1651.8,1846,87,SUP-030,42.75,12,3.7,FALSE
+PROD-000945,Pita Bread,Groceries,Bakery,GlobalTech,4972.85,177.1,921,84,SUP-145,6.84,6,4,FALSE
+PROD-000946,Cake,Groceries,Bakery,Najdi,1812.77,1601.09,748,199,SUP-027,31.98,0,4,TRUE
+PROD-000947,Cookies,Groceries,Bakery,Hijazi,1401.35,1975.81,563,115,SUP-106,17.51,36,4.1,TRUE
+PROD-000948,Donuts,Groceries,Bakery,AlFaisal,103.73,1292.85,389,78,SUP-122,41.6,6,3.5,TRUE
+PROD-000949,Brownies,Groceries,Bakery,AlFaisal,3782.27,697.96,229,66,SUP-026,14.67,6,2.6,TRUE
+PROD-000950,Scones,Groceries,Bakery,SaudiMart,3044.68,991.3,422,25,SUP-066,8.67,36,4.8,FALSE
+PROD-000951,Frozen Pizza,Groceries,Frozen Foods,OasisHome,758.79,206.19,362,123,SUP-092,34.43,24,3.2,TRUE
+PROD-000952,Frozen Vegetables,Groceries,Frozen Foods,RedSea,3021.92,1192.26,1004,78,SUP-084,47.29,0,3.5,TRUE
+PROD-000953,Frozen Berries,Groceries,Frozen Foods,RedSea,245.2,2735.58,1039,171,SUP-117,40.26,0,4,TRUE
+PROD-000954,Ice Cream Tub,Groceries,Frozen Foods,RedSea,4550.27,1842.24,1793,196,SUP-101,14.05,36,4.8,TRUE
+PROD-000955,Frozen Paratha,Groceries,Frozen Foods,OasisHome,3110.16,2427.51,688,119,SUP-042,40.04,12,3.2,FALSE
+PROD-000956,Frozen Samosa,Groceries,Frozen Foods,DesertBloom,4158.05,1368.04,166,154,SUP-138,30.2,6,4.8,FALSE
+PROD-000957,Frozen Fish,Groceries,Frozen Foods,SaudiMart,462.74,1297.95,1194,43,SUP-106,19.43,6,3,TRUE
+PROD-000958,Frozen Dumplings,Groceries,Frozen Foods,GlobalTech,3514.1,1931.52,1329,134,SUP-090,29.53,0,3.2,FALSE
+PROD-000959,Frozen Waffles,Groceries,Frozen Foods,Hijazi,3689.15,80.17,573,107,SUP-058,44.6,24,4.3,FALSE
+PROD-000960,Frozen Juice,Groceries,Frozen Foods,ValueMax,3926.96,1373.46,207,198,SUP-112,6.97,24,2.9,TRUE
+PROD-000961,Canned Tuna,Groceries,Canned Goods,OasisHome,2884.43,1978.27,102,122,SUP-057,2.03,24,4,TRUE
+PROD-000962,Canned Beans,Groceries,Canned Goods,OasisHome,3547.7,1921.52,1687,162,SUP-149,43.78,24,3.8,TRUE
+PROD-000963,Canned Tomatoes,Groceries,Canned Goods,AlFaisal,4320.8,669.24,379,39,SUP-028,25.23,24,3.9,TRUE
+PROD-000964,Canned Corn,Groceries,Canned Goods,Najdi,722.73,1930.99,1762,166,SUP-135,23.92,6,3.3,TRUE
+PROD-000965,Canned Soup,Groceries,Canned Goods,SaudiMart,1776.03,2059.23,1663,183,SUP-160,23.17,12,3.3,FALSE
+PROD-000966,Canned Fruit,Groceries,Canned Goods,Premium,1725.75,2977.61,75,178,SUP-076,22.47,12,3.6,TRUE
+PROD-000967,Canned Coconut Milk,Groceries,Canned Goods,ValueMax,1181.93,1945.17,1588,186,SUP-026,19.46,24,4.7,TRUE
+PROD-000968,Canned Chickpeas,Groceries,Canned Goods,Premium,2232.8,2663.08,271,165,SUP-101,27.03,24,3.1,FALSE
+PROD-000969,Canned Peas,Groceries,Canned Goods,Hijazi,2272.88,1287.61,1276,116,SUP-099,11.59,12,2.8,TRUE
+PROD-000970,Canned Mushrooms,Groceries,Canned Goods,Najdi,72.18,2372.9,927,112,SUP-095,0.66,0,4.1,TRUE
+PROD-000971,Basmati Rice,Groceries,Rice & Grains,GlobalTech,3551.06,2860.75,473,148,SUP-147,2.64,0,3.6,TRUE
+PROD-000972,Brown Rice,Groceries,Rice & Grains,Premium,3233.67,21.38,1829,184,SUP-121,29.9,24,3.7,FALSE
+PROD-000973,Quinoa,Groceries,Rice & Grains,GlobalTech,4585.04,529.13,848,200,SUP-018,20.77,12,2.6,TRUE
+PROD-000974,Couscous,Groceries,Rice & Grains,Premium,3209.36,400.26,1890,163,SUP-007,7.32,6,4.2,TRUE
+PROD-000975,Bulgur,Groceries,Rice & Grains,Najdi,2174.12,2917.5,846,103,SUP-024,23.7,12,3.9,FALSE
+PROD-000976,Oats,Groceries,Rice & Grains,Najdi,4964.17,2549.13,726,147,SUP-014,15.01,6,3.9,TRUE
+PROD-000977,Barley,Groceries,Rice & Grains,OasisHome,3774.38,533.29,1984,192,SUP-187,26.15,0,4.1,TRUE
+PROD-000978,Millet,Groceries,Rice & Grains,DesertBloom,3875.41,2671.18,159,136,SUP-104,38.33,36,3.9,FALSE
+PROD-000979,Wild Rice,Groceries,Rice & Grains,Hijazi,4877.8,895.1,909,73,SUP-081,28.44,12,4.9,FALSE
+PROD-000980,Arborio Rice,Groceries,Rice & Grains,SaudiMart,3617.43,2785.86,614,139,SUP-040,2.5,36,2.8,TRUE
+PROD-000981,Saffron,Groceries,Spices,Najdi,3443.92,2420.99,1202,125,SUP-118,35.87,12,4.8,TRUE
+PROD-000982,Cardamom,Groceries,Spices,Premium,3026.9,2811.48,1436,129,SUP-105,27.08,24,3.1,TRUE
+PROD-000983,Cinnamon,Groceries,Spices,SaudiMart,158.25,244.93,917,165,SUP-121,23.55,24,4.9,TRUE
+PROD-000984,Turmeric,Groceries,Spices,SaudiMart,906.89,49.07,1327,83,SUP-177,35.04,12,4.4,TRUE
+PROD-000985,Cumin,Groceries,Spices,Premium,846.26,750.73,654,66,SUP-037,1.58,12,2.8,TRUE
+PROD-000986,Black Pepper,Groceries,Spices,AlFaisal,3278.29,1209.05,1297,180,SUP-028,7.48,0,2.9,TRUE
+PROD-000987,Sumac,Groceries,Spices,SaudiMart,2891.46,324.89,1810,68,SUP-146,39.37,12,3.2,TRUE
+PROD-000988,Za'atar,Groceries,Spices,AlFaisal,3477.28,299.84,1590,119,SUP-082,20.84,36,3.9,FALSE
+PROD-000989,Baharat,Groceries,Spices,RedSea,4242.75,2820.44,53,173,SUP-168,43.76,24,2.9,FALSE
+PROD-000990,Ras El Hanout,Groceries,Spices,AlFaisal,3386.99,1477.2,121,189,SUP-186,9.66,0,3.2,TRUE
+PROD-000991,Organic Honey,Groceries,Organic,SaudiMart,2035.61,903.8,1662,65,SUP-131,25.07,12,4.9,TRUE
+PROD-000992,Organic Olive Oil,Groceries,Organic,Hijazi,209.87,1979.56,1665,25,SUP-107,29.92,36,2.8,TRUE
+PROD-000993,Organic Eggs,Groceries,Organic,OasisHome,3944.01,1421.45,122,86,SUP-078,28.97,24,2.7,TRUE
+PROD-000994,Organic Flour,Groceries,Organic,OasisHome,3302.99,767.69,1106,177,SUP-014,43.84,24,4.3,FALSE
+PROD-000995,Organic Sugar,Groceries,Organic,Premium,1580.86,2784.58,387,173,SUP-026,7.2,24,4.5,FALSE
+PROD-000996,Organic Coffee,Groceries,Organic,ValueMax,3941.92,1014.35,1969,191,SUP-139,37.18,12,2.7,TRUE
+PROD-000997,Organic Tea,Groceries,Organic,OasisHome,3654.98,761.1,369,167,SUP-116,32.11,0,3.1,FALSE
+PROD-000998,Organic Milk,Groceries,Organic,Hijazi,1027.28,2829.51,6,27,SUP-065,45.25,12,4.2,TRUE
+PROD-000999,Organic Vegetables,Groceries,Organic,DesertBloom,3269.94,2703.49,1420,126,SUP-187,34.32,36,4.7,TRUE
+PROD-001000,Organic Fruits,Groceries,Organic,GlobalTech,3928.93,2468.77,1568,54,SUP-053,40.72,0,2.6,FALSE
